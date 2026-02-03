@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notícies sobre cotxes</title>
+    <link>http://www.motornews.com</link>
+    <description>ÚLTIMES NOTÍCIES SOBRE EL MÓN DEL MOTOR</description>
+    <lastBuildDate>Fri, 15 Nov 2024 12:00:00 GMT</lastBuildDate>
+    
+    <atom:link href="http://www.motornews.com/cotxes.rss" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>Ferrari presenta el seu nou model híbrid, el SF-2024</title>
+      <link>https://www.motornews.com/ferrari-sf-2024-hibrid</link>
+      <description>Ferrari ha anunciat el llançament del seu nou model híbrid...</description>
+      <pubDate>Thu, 14 Nov 2024 10:00:00 GMT</pubDate>
+      <guid>https://www.motornews.com/ferrari-sf-2024-hibrid</guid>
+    </item>
+
+    <item>
+      <title>Volkswagen anuncia una inversió de 10.000 milions en vehicles elèctrics</title>
+      <link>https://www.motornews.com/volkswagen-investment-electric-cars</link>
+      <description>La companyia Volkswagen ha anunciat una inversió massiva...</description>
+      <pubDate>Tue, 12 Nov 2024 15:30:00 GMT</pubDate>
+      <guid>https://www.motornews.com/volkswagen-investment-electric-cars</guid>
+    </item>
+  </channel>
+</rss>

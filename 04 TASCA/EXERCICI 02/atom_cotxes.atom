@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Notícies sobre cotxes</title>
+  <link href="http://www.motornews.com"/>
+  <updated>2024-11-15T12:00:00Z</updated>
+  <author>
+    <name>Maria Eugenia Martini Perez</name>
+  </author>
+  <id>http://www.motornews.com/feed-id-12345</id>
+
+  <entry>
+    <title>Ferrari presenta el seu nou model híbrid, el SF-2024</title>
+    <link href="https://www.motornews.com/ferrari-sf-2024-hibrid"/>
+    <id>https://www.motornews.com/ferrari-sf-2024-hibrid</id>
+    <updated>2024-11-14T10:00:00Z</updated>
+    <summary>Ferrari ha anunciat el llançament del seu nou model híbrid, el SF-2024, que combina rendiment i sostenibilitat.</summary>
+  </entry>
+
+  <entry>
+    <title>Volkswagen anuncia una inversió de 10.000 milions en vehicles elèctrics</title>
+    <link href="https://www.motornews.com/volkswagen-investment-electric-cars"/>
+    <id>https://www.motornews.com/volkswagen-investment-electric-cars</id>
+    <updated>2024-11-12T15:30:00Z</updated>
+    <summary>La companyia Volkswagen ha anunciat una inversió massiva en el desenvolupament de vehicles elèctrics.</summary>
+  </entry>
+</feed>

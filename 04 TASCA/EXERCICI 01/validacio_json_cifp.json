@@ -1,0 +1,29 @@
+{
+  "cifp": {
+    "alumne": [
+      {
+        "id": 101,
+        "nom": "Maria",
+        "llinatges": "Martini Pérez",
+        "data_matricula": "2025-09-27",
+        "curs": "DAM"
+      }
+    ],
+    "professor": [
+      {
+        "id": 12,
+        "nom": "Joan",
+        "llinatges": "Prova Prova",
+        "data_incorporacio": "2017-09-21",
+        "departament": "Informàtica",
+        "assignatura": [
+          {
+            "id_assignatura": 7201,
+            "nom_assignatura": "Llenguatges de marques",
+            "cicle": "DAM"
+          }
+        ]
+      }
+    ]
+  }
+}

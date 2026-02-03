@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cifp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd_cifp.xsd">
+
+<alumne id="101">
+        <nom>Maria</nom>
+        <llinatges>Martini Pérez</llinatges>
+        <data_matricula>2025-09-27</data_matricula>
+        <curs>DAM</curs>
+    </alumne>
+    
+    <professor id="12">
+        <nom>Joan</nom>
+        <llinatges>Prova Prova</llinatges>
+        <data_incorporacio>2017-09-21</data_incorporacio>
+        <departament>Informàtica</departament>
+        <assignatura id_assignatura="5001">
+            <nom_assignatura cicle="DAM">Llenguatges de marques</nom_assignatura>
+            <data_inici>2023-09-01</data_inici>
+        </assignatura>
+    </professor>
+
+</cifp>

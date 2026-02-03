@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cifp SYSTEM "dtd_cifp.dtd">
+<cifp>
+    <alumne id="1s2">
+        <nom>Maria</nom>
+        <llinatges>Martini Pérez</llinatges>
+        <correu>maria@exemple.com</correu>
+        <data_matricula>2025-09-27</data_matricula>
+        <curs>DAM</curs>
+    </alumne>
+    
+    <professor id="12">
+        <nom>Joan</nom>
+        <llinatges>Prova Prova</llinatges>
+        <data_incorporacio>2017-09-21</data_incorporacio>
+        <departament>Informàtica</departament>
+        <assignatura id_assignatura="101">
+            <nom_assignatura cicle="DAM">Llenguatges de marques</nom_assignatura>
+            <data_inici>2023-09-01</data_inici>
+        </assignatura>
+    </professor>
+</cifp>

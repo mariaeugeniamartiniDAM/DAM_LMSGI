@@ -1,0 +1,4961 @@
+﻿<DATA>
+
+	<ROW>
+		<customerNumber>103</customerNumber>
+		<checkNumber>HQ336336</checkNumber>
+		<paymentDate>2004-10-19</paymentDate>
+		<amount>6066.78</amount>
+		<customerName>Atelier graphique</customerName>
+		<contactLastName>Schmitt</contactLastName>
+		<contactFirstName>Carine </contactFirstName>
+		<phone>40.32.2555</phone>
+		<addressLine1>54, rue Royale</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Nantes</city>
+		<state>NULL</state>
+		<postalCode>44000</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>21000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>103</customerNumber>
+		<checkNumber>JM555205</checkNumber>
+		<paymentDate>2003-06-05</paymentDate>
+		<amount>14571.44</amount>
+		<customerName>Atelier graphique</customerName>
+		<contactLastName>Schmitt</contactLastName>
+		<contactFirstName>Carine </contactFirstName>
+		<phone>40.32.2555</phone>
+		<addressLine1>54, rue Royale</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Nantes</city>
+		<state>NULL</state>
+		<postalCode>44000</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>21000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>103</customerNumber>
+		<checkNumber>OM314933</checkNumber>
+		<paymentDate>2004-12-18</paymentDate>
+		<amount>1676.14</amount>
+		<customerName>Atelier graphique</customerName>
+		<contactLastName>Schmitt</contactLastName>
+		<contactFirstName>Carine </contactFirstName>
+		<phone>40.32.2555</phone>
+		<addressLine1>54, rue Royale</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Nantes</city>
+		<state>NULL</state>
+		<postalCode>44000</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>21000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>112</customerNumber>
+		<checkNumber>BO864823</checkNumber>
+		<paymentDate>2004-12-17</paymentDate>
+		<amount>14191.12</amount>
+		<customerName>Signal Gift Stores</customerName>
+		<contactLastName>King</contactLastName>
+		<contactFirstName>Jean</contactFirstName>
+		<phone>7025551838</phone>
+		<addressLine1>8489 Strong St.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Las Vegas</city>
+		<state>NV</state>
+		<postalCode>83030</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+		<creditLimit>71800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>112</customerNumber>
+		<checkNumber>H125</checkNumber>
+		<paymentDate>2024-02-05</paymentDate>
+		<amount>1024.00</amount>
+		<customerName>Signal Gift Stores</customerName>
+		<contactLastName>King</contactLastName>
+		<contactFirstName>Jean</contactFirstName>
+		<phone>7025551838</phone>
+		<addressLine1>8489 Strong St.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Las Vegas</city>
+		<state>NV</state>
+		<postalCode>83030</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+		<creditLimit>71800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>112</customerNumber>
+		<checkNumber>HQ55022</checkNumber>
+		<paymentDate>2003-06-06</paymentDate>
+		<amount>32641.98</amount>
+		<customerName>Signal Gift Stores</customerName>
+		<contactLastName>King</contactLastName>
+		<contactFirstName>Jean</contactFirstName>
+		<phone>7025551838</phone>
+		<addressLine1>8489 Strong St.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Las Vegas</city>
+		<state>NV</state>
+		<postalCode>83030</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+		<creditLimit>71800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>112</customerNumber>
+		<checkNumber>ND748579</checkNumber>
+		<paymentDate>2004-08-20</paymentDate>
+		<amount>33347.88</amount>
+		<customerName>Signal Gift Stores</customerName>
+		<contactLastName>King</contactLastName>
+		<contactFirstName>Jean</contactFirstName>
+		<phone>7025551838</phone>
+		<addressLine1>8489 Strong St.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Las Vegas</city>
+		<state>NV</state>
+		<postalCode>83030</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+		<creditLimit>71800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>114</customerNumber>
+		<checkNumber>GG31455</checkNumber>
+		<paymentDate>2003-05-20</paymentDate>
+		<amount>45864.03</amount>
+		<customerName>Australian Collectors, Co.</customerName>
+		<contactLastName>Ferguson</contactLastName>
+		<contactFirstName>Peter</contactFirstName>
+		<phone>03 9520 4555</phone>
+		<addressLine1>636 St Kilda Road</addressLine1>
+		<addressLine2>Level 3</addressLine2>
+		<city>Melbourne</city>
+		<state>Victoria</state>
+		<postalCode>3004</postalCode>
+		<country>Australia</country>
+		<salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+		<creditLimit>117300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>114</customerNumber>
+		<checkNumber>MA765515</checkNumber>
+		<paymentDate>2004-12-15</paymentDate>
+		<amount>82261.22</amount>
+		<customerName>Australian Collectors, Co.</customerName>
+		<contactLastName>Ferguson</contactLastName>
+		<contactFirstName>Peter</contactFirstName>
+		<phone>03 9520 4555</phone>
+		<addressLine1>636 St Kilda Road</addressLine1>
+		<addressLine2>Level 3</addressLine2>
+		<city>Melbourne</city>
+		<state>Victoria</state>
+		<postalCode>3004</postalCode>
+		<country>Australia</country>
+		<salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+		<creditLimit>117300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>114</customerNumber>
+		<checkNumber>NP603840</checkNumber>
+		<paymentDate>2003-05-31</paymentDate>
+		<amount>7565.08</amount>
+		<customerName>Australian Collectors, Co.</customerName>
+		<contactLastName>Ferguson</contactLastName>
+		<contactFirstName>Peter</contactFirstName>
+		<phone>03 9520 4555</phone>
+		<addressLine1>636 St Kilda Road</addressLine1>
+		<addressLine2>Level 3</addressLine2>
+		<city>Melbourne</city>
+		<state>Victoria</state>
+		<postalCode>3004</postalCode>
+		<country>Australia</country>
+		<salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+		<creditLimit>117300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>114</customerNumber>
+		<checkNumber>NR27552</checkNumber>
+		<paymentDate>2004-03-10</paymentDate>
+		<amount>44894.74</amount>
+		<customerName>Australian Collectors, Co.</customerName>
+		<contactLastName>Ferguson</contactLastName>
+		<contactFirstName>Peter</contactFirstName>
+		<phone>03 9520 4555</phone>
+		<addressLine1>636 St Kilda Road</addressLine1>
+		<addressLine2>Level 3</addressLine2>
+		<city>Melbourne</city>
+		<state>Victoria</state>
+		<postalCode>3004</postalCode>
+		<country>Australia</country>
+		<salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+		<creditLimit>117300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>119</customerNumber>
+		<checkNumber>DB933704</checkNumber>
+		<paymentDate>2004-11-14</paymentDate>
+		<amount>19501.82</amount>
+		<customerName>La Rochelle Gifts</customerName>
+		<contactLastName>Labrune</contactLastName>
+		<contactFirstName>Janine </contactFirstName>
+		<phone>40.67.8555</phone>
+		<addressLine1>46 Marlborough Rd.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Girona</city>
+		<state>NULL</state>
+		<postalCode>43003</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>118200.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>119</customerNumber>
+		<checkNumber>LN373447</checkNumber>
+		<paymentDate>2004-08-08</paymentDate>
+		<amount>47924.19</amount>
+		<customerName>La Rochelle Gifts</customerName>
+		<contactLastName>Labrune</contactLastName>
+		<contactFirstName>Janine </contactFirstName>
+		<phone>40.67.8555</phone>
+		<addressLine1>46 Marlborough Rd.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Girona</city>
+		<state>NULL</state>
+		<postalCode>43003</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>118200.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>119</customerNumber>
+		<checkNumber>NG94694</checkNumber>
+		<paymentDate>2005-02-22</paymentDate>
+		<amount>49523.67</amount>
+		<customerName>La Rochelle Gifts</customerName>
+		<contactLastName>Labrune</contactLastName>
+		<contactFirstName>Janine </contactFirstName>
+		<phone>40.67.8555</phone>
+		<addressLine1>46 Marlborough Rd.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Girona</city>
+		<state>NULL</state>
+		<postalCode>43003</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>118200.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>121</customerNumber>
+		<checkNumber>DB889831</checkNumber>
+		<paymentDate>2003-02-16</paymentDate>
+		<amount>50218.95</amount>
+		<customerName>Baane Mini Imports</customerName>
+		<contactLastName>Bergulfsen</contactLastName>
+		<contactFirstName>Jonas </contactFirstName>
+		<phone>07-98 9555</phone>
+		<addressLine1>Erling Skakkes gate 78</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Stavern</city>
+		<state>NULL</state>
+		<postalCode>4110</postalCode>
+		<country>Norway</country>
+		<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+		<creditLimit>81700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>121</customerNumber>
+		<checkNumber>FD317790</checkNumber>
+		<paymentDate>2003-10-28</paymentDate>
+		<amount>1491.38</amount>
+		<customerName>Baane Mini Imports</customerName>
+		<contactLastName>Bergulfsen</contactLastName>
+		<contactFirstName>Jonas </contactFirstName>
+		<phone>07-98 9555</phone>
+		<addressLine1>Erling Skakkes gate 78</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Stavern</city>
+		<state>NULL</state>
+		<postalCode>4110</postalCode>
+		<country>Norway</country>
+		<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+		<creditLimit>81700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>121</customerNumber>
+		<checkNumber>KI831359</checkNumber>
+		<paymentDate>2004-11-04</paymentDate>
+		<amount>17876.32</amount>
+		<customerName>Baane Mini Imports</customerName>
+		<contactLastName>Bergulfsen</contactLastName>
+		<contactFirstName>Jonas </contactFirstName>
+		<phone>07-98 9555</phone>
+		<addressLine1>Erling Skakkes gate 78</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Stavern</city>
+		<state>NULL</state>
+		<postalCode>4110</postalCode>
+		<country>Norway</country>
+		<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+		<creditLimit>81700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>121</customerNumber>
+		<checkNumber>MA302151</checkNumber>
+		<paymentDate>2004-11-28</paymentDate>
+		<amount>34638.14</amount>
+		<customerName>Baane Mini Imports</customerName>
+		<contactLastName>Bergulfsen</contactLastName>
+		<contactFirstName>Jonas </contactFirstName>
+		<phone>07-98 9555</phone>
+		<addressLine1>Erling Skakkes gate 78</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Stavern</city>
+		<state>NULL</state>
+		<postalCode>4110</postalCode>
+		<country>Norway</country>
+		<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+		<creditLimit>81700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>124</customerNumber>
+		<checkNumber>AE215433</checkNumber>
+		<paymentDate>2005-03-05</paymentDate>
+		<amount>101244.59</amount>
+		<customerName>Mini Gifts Distributors Ltd.</customerName>
+		<contactLastName>Nelson</contactLastName>
+		<contactFirstName>Susan</contactFirstName>
+		<phone>4155551450</phone>
+		<addressLine1>2 Walls St</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Lleida</city>
+		<state>CA</state>
+		<postalCode>25002</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+		<creditLimit>210500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>124</customerNumber>
+		<checkNumber>BG255406</checkNumber>
+		<paymentDate>2004-08-28</paymentDate>
+		<amount>85410.87</amount>
+		<customerName>Mini Gifts Distributors Ltd.</customerName>
+		<contactLastName>Nelson</contactLastName>
+		<contactFirstName>Susan</contactFirstName>
+		<phone>4155551450</phone>
+		<addressLine1>2 Walls St</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Lleida</city>
+		<state>CA</state>
+		<postalCode>25002</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+		<creditLimit>210500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>124</customerNumber>
+		<checkNumber>CQ287967</checkNumber>
+		<paymentDate>2003-04-11</paymentDate>
+		<amount>11044.30</amount>
+		<customerName>Mini Gifts Distributors Ltd.</customerName>
+		<contactLastName>Nelson</contactLastName>
+		<contactFirstName>Susan</contactFirstName>
+		<phone>4155551450</phone>
+		<addressLine1>2 Walls St</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Lleida</city>
+		<state>CA</state>
+		<postalCode>25002</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+		<creditLimit>210500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>124</customerNumber>
+		<checkNumber>ET64396</checkNumber>
+		<paymentDate>2005-04-16</paymentDate>
+		<amount>83598.04</amount>
+		<customerName>Mini Gifts Distributors Ltd.</customerName>
+		<contactLastName>Nelson</contactLastName>
+		<contactFirstName>Susan</contactFirstName>
+		<phone>4155551450</phone>
+		<addressLine1>2 Walls St</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Lleida</city>
+		<state>CA</state>
+		<postalCode>25002</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+		<creditLimit>210500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>124</customerNumber>
+		<checkNumber>H123</checkNumber>
+		<paymentDate>2024-02-06</paymentDate>
+		<amount>845.00</amount>
+		<customerName>Mini Gifts Distributors Ltd.</customerName>
+		<contactLastName>Nelson</contactLastName>
+		<contactFirstName>Susan</contactFirstName>
+		<phone>4155551450</phone>
+		<addressLine1>2 Walls St</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Lleida</city>
+		<state>CA</state>
+		<postalCode>25002</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+		<creditLimit>210500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>124</customerNumber>
+		<checkNumber>HI366474</checkNumber>
+		<paymentDate>2004-12-27</paymentDate>
+		<amount>47142.70</amount>
+		<customerName>Mini Gifts Distributors Ltd.</customerName>
+		<contactLastName>Nelson</contactLastName>
+		<contactFirstName>Susan</contactFirstName>
+		<phone>4155551450</phone>
+		<addressLine1>2 Walls St</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Lleida</city>
+		<state>CA</state>
+		<postalCode>25002</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+		<creditLimit>210500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>124</customerNumber>
+		<checkNumber>HR86578</checkNumber>
+		<paymentDate>2004-11-02</paymentDate>
+		<amount>55639.66</amount>
+		<customerName>Mini Gifts Distributors Ltd.</customerName>
+		<contactLastName>Nelson</contactLastName>
+		<contactFirstName>Susan</contactFirstName>
+		<phone>4155551450</phone>
+		<addressLine1>2 Walls St</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Lleida</city>
+		<state>CA</state>
+		<postalCode>25002</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+		<creditLimit>210500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>124</customerNumber>
+		<checkNumber>KI131716</checkNumber>
+		<paymentDate>2003-08-15</paymentDate>
+		<amount>111654.40</amount>
+		<customerName>Mini Gifts Distributors Ltd.</customerName>
+		<contactLastName>Nelson</contactLastName>
+		<contactFirstName>Susan</contactFirstName>
+		<phone>4155551450</phone>
+		<addressLine1>2 Walls St</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Lleida</city>
+		<state>CA</state>
+		<postalCode>25002</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+		<creditLimit>210500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>124</customerNumber>
+		<checkNumber>LF217299</checkNumber>
+		<paymentDate>2004-03-26</paymentDate>
+		<amount>43369.30</amount>
+		<customerName>Mini Gifts Distributors Ltd.</customerName>
+		<contactLastName>Nelson</contactLastName>
+		<contactFirstName>Susan</contactFirstName>
+		<phone>4155551450</phone>
+		<addressLine1>2 Walls St</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Lleida</city>
+		<state>CA</state>
+		<postalCode>25002</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+		<creditLimit>210500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>124</customerNumber>
+		<checkNumber>NT141748</checkNumber>
+		<paymentDate>2003-11-25</paymentDate>
+		<amount>45084.38</amount>
+		<customerName>Mini Gifts Distributors Ltd.</customerName>
+		<contactLastName>Nelson</contactLastName>
+		<contactFirstName>Susan</contactFirstName>
+		<phone>4155551450</phone>
+		<addressLine1>2 Walls St</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Lleida</city>
+		<state>CA</state>
+		<postalCode>25002</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+		<creditLimit>210500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>128</customerNumber>
+		<checkNumber>DI925118</checkNumber>
+		<paymentDate>2003-01-28</paymentDate>
+		<amount>10549.01</amount>
+		<customerName>Blauer See Auto, Co.</customerName>
+		<contactLastName>Keitel</contactLastName>
+		<contactFirstName>Roland</contactFirstName>
+		<phone>+49 69 66 90 2555</phone>
+		<addressLine1>Lyonerstr. 34</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Frankfurt</city>
+		<state>NULL</state>
+		<postalCode>60528</postalCode>
+		<country>Germany</country>
+		<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+		<creditLimit>59700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>128</customerNumber>
+		<checkNumber>FA465482</checkNumber>
+		<paymentDate>2003-10-18</paymentDate>
+		<amount>24101.81</amount>
+		<customerName>Blauer See Auto, Co.</customerName>
+		<contactLastName>Keitel</contactLastName>
+		<contactFirstName>Roland</contactFirstName>
+		<phone>+49 69 66 90 2555</phone>
+		<addressLine1>Lyonerstr. 34</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Frankfurt</city>
+		<state>NULL</state>
+		<postalCode>60528</postalCode>
+		<country>Germany</country>
+		<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+		<creditLimit>59700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>128</customerNumber>
+		<checkNumber>FH668230</checkNumber>
+		<paymentDate>2004-03-24</paymentDate>
+		<amount>33820.62</amount>
+		<customerName>Blauer See Auto, Co.</customerName>
+		<contactLastName>Keitel</contactLastName>
+		<contactFirstName>Roland</contactFirstName>
+		<phone>+49 69 66 90 2555</phone>
+		<addressLine1>Lyonerstr. 34</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Frankfurt</city>
+		<state>NULL</state>
+		<postalCode>60528</postalCode>
+		<country>Germany</country>
+		<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+		<creditLimit>59700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>128</customerNumber>
+		<checkNumber>IP383901</checkNumber>
+		<paymentDate>2004-11-18</paymentDate>
+		<amount>7466.32</amount>
+		<customerName>Blauer See Auto, Co.</customerName>
+		<contactLastName>Keitel</contactLastName>
+		<contactFirstName>Roland</contactFirstName>
+		<phone>+49 69 66 90 2555</phone>
+		<addressLine1>Lyonerstr. 34</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Frankfurt</city>
+		<state>NULL</state>
+		<postalCode>60528</postalCode>
+		<country>Germany</country>
+		<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+		<creditLimit>59700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>129</customerNumber>
+		<checkNumber>DM826140</checkNumber>
+		<paymentDate>2004-12-08</paymentDate>
+		<amount>26248.78</amount>
+		<customerName>Mini Wheels Co.</customerName>
+		<contactLastName>Murphy</contactLastName>
+		<contactFirstName>Julie</contactFirstName>
+		<phone>6505555787</phone>
+		<addressLine1>5557 North Pendale Street</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>San Francisco</city>
+		<state>CA</state>
+		<postalCode>94217</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+		<creditLimit>64600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>129</customerNumber>
+		<checkNumber>ID449593</checkNumber>
+		<paymentDate>2003-12-11</paymentDate>
+		<amount>23923.93</amount>
+		<customerName>Mini Wheels Co.</customerName>
+		<contactLastName>Murphy</contactLastName>
+		<contactFirstName>Julie</contactFirstName>
+		<phone>6505555787</phone>
+		<addressLine1>5557 North Pendale Street</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>San Francisco</city>
+		<state>CA</state>
+		<postalCode>94217</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+		<creditLimit>64600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>129</customerNumber>
+		<checkNumber>PI42991</checkNumber>
+		<paymentDate>2003-04-09</paymentDate>
+		<amount>16537.85</amount>
+		<customerName>Mini Wheels Co.</customerName>
+		<contactLastName>Murphy</contactLastName>
+		<contactFirstName>Julie</contactFirstName>
+		<phone>6505555787</phone>
+		<addressLine1>5557 North Pendale Street</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>San Francisco</city>
+		<state>CA</state>
+		<postalCode>94217</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+		<creditLimit>64600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>131</customerNumber>
+		<checkNumber>CL442705</checkNumber>
+		<paymentDate>2003-03-12</paymentDate>
+		<amount>22292.62</amount>
+		<customerName>Land of Toys Inc.</customerName>
+		<contactLastName>Lee</contactLastName>
+		<contactFirstName>Kwai</contactFirstName>
+		<phone>2125557818</phone>
+		<addressLine1>897 Long Airport Avenue</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>NYC</city>
+		<state>NY</state>
+		<postalCode>10022</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+		<creditLimit>114900.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>131</customerNumber>
+		<checkNumber>MA724562</checkNumber>
+		<paymentDate>2004-12-02</paymentDate>
+		<amount>50025.35</amount>
+		<customerName>Land of Toys Inc.</customerName>
+		<contactLastName>Lee</contactLastName>
+		<contactFirstName>Kwai</contactFirstName>
+		<phone>2125557818</phone>
+		<addressLine1>897 Long Airport Avenue</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>NYC</city>
+		<state>NY</state>
+		<postalCode>10022</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+		<creditLimit>114900.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>131</customerNumber>
+		<checkNumber>NB445135</checkNumber>
+		<paymentDate>2004-09-11</paymentDate>
+		<amount>35321.97</amount>
+		<customerName>Land of Toys Inc.</customerName>
+		<contactLastName>Lee</contactLastName>
+		<contactFirstName>Kwai</contactFirstName>
+		<phone>2125557818</phone>
+		<addressLine1>897 Long Airport Avenue</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>NYC</city>
+		<state>NY</state>
+		<postalCode>10022</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+		<creditLimit>114900.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>141</customerNumber>
+		<checkNumber>AU364101</checkNumber>
+		<paymentDate>2003-07-19</paymentDate>
+		<amount>36251.03</amount>
+		<customerName>Euro+ Shopping Channel</customerName>
+		<contactLastName>Freyre</contactLastName>
+		<contactFirstName>Diego </contactFirstName>
+		<phone>(91) 555 94 44</phone>
+		<addressLine1>43 State St</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Girona</city>
+		<state>NULL</state>
+		<postalCode>17001</postalCode>
+		<country>Spain</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>227600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>141</customerNumber>
+		<checkNumber>DB583216</checkNumber>
+		<paymentDate>2004-11-01</paymentDate>
+		<amount>36140.38</amount>
+		<customerName>Euro+ Shopping Channel</customerName>
+		<contactLastName>Freyre</contactLastName>
+		<contactFirstName>Diego </contactFirstName>
+		<phone>(91) 555 94 44</phone>
+		<addressLine1>43 State St</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Girona</city>
+		<state>NULL</state>
+		<postalCode>17001</postalCode>
+		<country>Spain</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>227600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>141</customerNumber>
+		<checkNumber>DL460618</checkNumber>
+		<paymentDate>2005-05-19</paymentDate>
+		<amount>46895.48</amount>
+		<customerName>Euro+ Shopping Channel</customerName>
+		<contactLastName>Freyre</contactLastName>
+		<contactFirstName>Diego </contactFirstName>
+		<phone>(91) 555 94 44</phone>
+		<addressLine1>43 State St</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Girona</city>
+		<state>NULL</state>
+		<postalCode>17001</postalCode>
+		<country>Spain</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>227600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>141</customerNumber>
+		<checkNumber>HJ32686</checkNumber>
+		<paymentDate>2004-01-30</paymentDate>
+		<amount>59830.55</amount>
+		<customerName>Euro+ Shopping Channel</customerName>
+		<contactLastName>Freyre</contactLastName>
+		<contactFirstName>Diego </contactFirstName>
+		<phone>(91) 555 94 44</phone>
+		<addressLine1>43 State St</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Girona</city>
+		<state>NULL</state>
+		<postalCode>17001</postalCode>
+		<country>Spain</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>227600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>141</customerNumber>
+		<checkNumber>ID10962</checkNumber>
+		<paymentDate>2004-12-31</paymentDate>
+		<amount>116208.40</amount>
+		<customerName>Euro+ Shopping Channel</customerName>
+		<contactLastName>Freyre</contactLastName>
+		<contactFirstName>Diego </contactFirstName>
+		<phone>(91) 555 94 44</phone>
+		<addressLine1>43 State St</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Girona</city>
+		<state>NULL</state>
+		<postalCode>17001</postalCode>
+		<country>Spain</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>227600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>141</customerNumber>
+		<checkNumber>IN446258</checkNumber>
+		<paymentDate>2005-03-25</paymentDate>
+		<amount>65071.26</amount>
+		<customerName>Euro+ Shopping Channel</customerName>
+		<contactLastName>Freyre</contactLastName>
+		<contactFirstName>Diego </contactFirstName>
+		<phone>(91) 555 94 44</phone>
+		<addressLine1>43 State St</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Girona</city>
+		<state>NULL</state>
+		<postalCode>17001</postalCode>
+		<country>Spain</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>227600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>141</customerNumber>
+		<checkNumber>JE105477</checkNumber>
+		<paymentDate>2005-03-18</paymentDate>
+		<amount>120166.58</amount>
+		<customerName>Euro+ Shopping Channel</customerName>
+		<contactLastName>Freyre</contactLastName>
+		<contactFirstName>Diego </contactFirstName>
+		<phone>(91) 555 94 44</phone>
+		<addressLine1>43 State St</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Girona</city>
+		<state>NULL</state>
+		<postalCode>17001</postalCode>
+		<country>Spain</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>227600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>141</customerNumber>
+		<checkNumber>JN355280</checkNumber>
+		<paymentDate>2003-10-26</paymentDate>
+		<amount>49539.37</amount>
+		<customerName>Euro+ Shopping Channel</customerName>
+		<contactLastName>Freyre</contactLastName>
+		<contactFirstName>Diego </contactFirstName>
+		<phone>(91) 555 94 44</phone>
+		<addressLine1>43 State St</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Girona</city>
+		<state>NULL</state>
+		<postalCode>17001</postalCode>
+		<country>Spain</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>227600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>141</customerNumber>
+		<checkNumber>JN722010</checkNumber>
+		<paymentDate>2003-02-25</paymentDate>
+		<amount>40206.20</amount>
+		<customerName>Euro+ Shopping Channel</customerName>
+		<contactLastName>Freyre</contactLastName>
+		<contactFirstName>Diego </contactFirstName>
+		<phone>(91) 555 94 44</phone>
+		<addressLine1>43 State St</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Girona</city>
+		<state>NULL</state>
+		<postalCode>17001</postalCode>
+		<country>Spain</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>227600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>141</customerNumber>
+		<checkNumber>KT52578</checkNumber>
+		<paymentDate>2003-12-09</paymentDate>
+		<amount>63843.55</amount>
+		<customerName>Euro+ Shopping Channel</customerName>
+		<contactLastName>Freyre</contactLastName>
+		<contactFirstName>Diego </contactFirstName>
+		<phone>(91) 555 94 44</phone>
+		<addressLine1>43 State St</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Girona</city>
+		<state>NULL</state>
+		<postalCode>17001</postalCode>
+		<country>Spain</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>227600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>141</customerNumber>
+		<checkNumber>MC46946</checkNumber>
+		<paymentDate>2004-07-09</paymentDate>
+		<amount>35420.74</amount>
+		<customerName>Euro+ Shopping Channel</customerName>
+		<contactLastName>Freyre</contactLastName>
+		<contactFirstName>Diego </contactFirstName>
+		<phone>(91) 555 94 44</phone>
+		<addressLine1>43 State St</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Girona</city>
+		<state>NULL</state>
+		<postalCode>17001</postalCode>
+		<country>Spain</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>227600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>141</customerNumber>
+		<checkNumber>MF629602</checkNumber>
+		<paymentDate>2004-08-16</paymentDate>
+		<amount>20009.53</amount>
+		<customerName>Euro+ Shopping Channel</customerName>
+		<contactLastName>Freyre</contactLastName>
+		<contactFirstName>Diego </contactFirstName>
+		<phone>(91) 555 94 44</phone>
+		<addressLine1>43 State St</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Girona</city>
+		<state>NULL</state>
+		<postalCode>17001</postalCode>
+		<country>Spain</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>227600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>141</customerNumber>
+		<checkNumber>NU627706</checkNumber>
+		<paymentDate>2004-05-17</paymentDate>
+		<amount>26155.91</amount>
+		<customerName>Euro+ Shopping Channel</customerName>
+		<contactLastName>Freyre</contactLastName>
+		<contactFirstName>Diego </contactFirstName>
+		<phone>(91) 555 94 44</phone>
+		<addressLine1>43 State St</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Girona</city>
+		<state>NULL</state>
+		<postalCode>17001</postalCode>
+		<country>Spain</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>227600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>144</customerNumber>
+		<checkNumber>IR846303</checkNumber>
+		<paymentDate>2004-12-12</paymentDate>
+		<amount>36005.71</amount>
+		<customerName>Volvo Model Replicas, Co</customerName>
+		<contactLastName>Berglund</contactLastName>
+		<contactFirstName>Christina </contactFirstName>
+		<phone>0921-12 3555</phone>
+		<addressLine1>Berguvsvägen  8</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Luleå</city>
+		<state>NULL</state>
+		<postalCode>S-958 22</postalCode>
+		<country>Sweden</country>
+		<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+		<creditLimit>53100.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>144</customerNumber>
+		<checkNumber>LA685678</checkNumber>
+		<paymentDate>2003-04-09</paymentDate>
+		<amount>7674.94</amount>
+		<customerName>Volvo Model Replicas, Co</customerName>
+		<contactLastName>Berglund</contactLastName>
+		<contactFirstName>Christina </contactFirstName>
+		<phone>0921-12 3555</phone>
+		<addressLine1>Berguvsvägen  8</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Luleå</city>
+		<state>NULL</state>
+		<postalCode>S-958 22</postalCode>
+		<country>Sweden</country>
+		<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+		<creditLimit>53100.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>145</customerNumber>
+		<checkNumber>CN328545</checkNumber>
+		<paymentDate>2004-07-03</paymentDate>
+		<amount>4710.73</amount>
+		<customerName>Danish Wholesale Imports</customerName>
+		<contactLastName>Petersen</contactLastName>
+		<contactFirstName>Jytte </contactFirstName>
+		<phone>31 12 3555</phone>
+		<addressLine1>Vinbæltet 34</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Kobenhavn</city>
+		<state>NULL</state>
+		<postalCode>1734</postalCode>
+		<country>Denmark</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>83400.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>145</customerNumber>
+		<checkNumber>ED39322</checkNumber>
+		<paymentDate>2004-04-26</paymentDate>
+		<amount>28211.70</amount>
+		<customerName>Danish Wholesale Imports</customerName>
+		<contactLastName>Petersen</contactLastName>
+		<contactFirstName>Jytte </contactFirstName>
+		<phone>31 12 3555</phone>
+		<addressLine1>Vinbæltet 34</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Kobenhavn</city>
+		<state>NULL</state>
+		<postalCode>1734</postalCode>
+		<country>Denmark</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>83400.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>145</customerNumber>
+		<checkNumber>HR182688</checkNumber>
+		<paymentDate>2004-12-01</paymentDate>
+		<amount>20564.86</amount>
+		<customerName>Danish Wholesale Imports</customerName>
+		<contactLastName>Petersen</contactLastName>
+		<contactFirstName>Jytte </contactFirstName>
+		<phone>31 12 3555</phone>
+		<addressLine1>Vinbæltet 34</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Kobenhavn</city>
+		<state>NULL</state>
+		<postalCode>1734</postalCode>
+		<country>Denmark</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>83400.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>145</customerNumber>
+		<checkNumber>JJ246391</checkNumber>
+		<paymentDate>2003-02-20</paymentDate>
+		<amount>53959.21</amount>
+		<customerName>Danish Wholesale Imports</customerName>
+		<contactLastName>Petersen</contactLastName>
+		<contactFirstName>Jytte </contactFirstName>
+		<phone>31 12 3555</phone>
+		<addressLine1>Vinbæltet 34</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Kobenhavn</city>
+		<state>NULL</state>
+		<postalCode>1734</postalCode>
+		<country>Denmark</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>83400.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>146</customerNumber>
+		<checkNumber>FP549817</checkNumber>
+		<paymentDate>2004-03-18</paymentDate>
+		<amount>40978.53</amount>
+		<customerName>Saveley and Henriot, Co.</customerName>
+		<contactLastName>Saveley</contactLastName>
+		<contactFirstName>Mary </contactFirstName>
+		<phone>78.32.5555</phone>
+		<addressLine1>2, rue du Commerce</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Lyon</city>
+		<state>NULL</state>
+		<postalCode>69004</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+		<creditLimit>123900.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>146</customerNumber>
+		<checkNumber>FU793410</checkNumber>
+		<paymentDate>2004-01-16</paymentDate>
+		<amount>49614.72</amount>
+		<customerName>Saveley and Henriot, Co.</customerName>
+		<contactLastName>Saveley</contactLastName>
+		<contactFirstName>Mary </contactFirstName>
+		<phone>78.32.5555</phone>
+		<addressLine1>2, rue du Commerce</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Lyon</city>
+		<state>NULL</state>
+		<postalCode>69004</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+		<creditLimit>123900.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>146</customerNumber>
+		<checkNumber>LJ160635</checkNumber>
+		<paymentDate>2003-12-10</paymentDate>
+		<amount>39712.10</amount>
+		<customerName>Saveley and Henriot, Co.</customerName>
+		<contactLastName>Saveley</contactLastName>
+		<contactFirstName>Mary </contactFirstName>
+		<phone>78.32.5555</phone>
+		<addressLine1>2, rue du Commerce</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Lyon</city>
+		<state>NULL</state>
+		<postalCode>69004</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+		<creditLimit>123900.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>148</customerNumber>
+		<checkNumber>BI507030</checkNumber>
+		<paymentDate>2003-04-22</paymentDate>
+		<amount>44380.15</amount>
+		<customerName>Dragon Souveniers, Ltd.</customerName>
+		<contactLastName>Natividad</contactLastName>
+		<contactFirstName>Eric</contactFirstName>
+		<phone>+65 221 7555</phone>
+		<addressLine1>Bronz Sok.</addressLine1>
+		<addressLine2>Bronz Apt. 3/6 Tesvikiye</addressLine2>
+		<city>Singapore</city>
+		<state>NULL</state>
+		<postalCode>079903</postalCode>
+		<country>Singapore</country>
+		<salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+		<creditLimit>103800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>148</customerNumber>
+		<checkNumber>DD635282</checkNumber>
+		<paymentDate>2004-08-11</paymentDate>
+		<amount>2611.84</amount>
+		<customerName>Dragon Souveniers, Ltd.</customerName>
+		<contactLastName>Natividad</contactLastName>
+		<contactFirstName>Eric</contactFirstName>
+		<phone>+65 221 7555</phone>
+		<addressLine1>Bronz Sok.</addressLine1>
+		<addressLine2>Bronz Apt. 3/6 Tesvikiye</addressLine2>
+		<city>Singapore</city>
+		<state>NULL</state>
+		<postalCode>079903</postalCode>
+		<country>Singapore</country>
+		<salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+		<creditLimit>103800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>148</customerNumber>
+		<checkNumber>KM172879</checkNumber>
+		<paymentDate>2003-12-26</paymentDate>
+		<amount>105743.00</amount>
+		<customerName>Dragon Souveniers, Ltd.</customerName>
+		<contactLastName>Natividad</contactLastName>
+		<contactFirstName>Eric</contactFirstName>
+		<phone>+65 221 7555</phone>
+		<addressLine1>Bronz Sok.</addressLine1>
+		<addressLine2>Bronz Apt. 3/6 Tesvikiye</addressLine2>
+		<city>Singapore</city>
+		<state>NULL</state>
+		<postalCode>079903</postalCode>
+		<country>Singapore</country>
+		<salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+		<creditLimit>103800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>148</customerNumber>
+		<checkNumber>ME497970</checkNumber>
+		<paymentDate>2005-03-27</paymentDate>
+		<amount>3516.04</amount>
+		<customerName>Dragon Souveniers, Ltd.</customerName>
+		<contactLastName>Natividad</contactLastName>
+		<contactFirstName>Eric</contactFirstName>
+		<phone>+65 221 7555</phone>
+		<addressLine1>Bronz Sok.</addressLine1>
+		<addressLine2>Bronz Apt. 3/6 Tesvikiye</addressLine2>
+		<city>Singapore</city>
+		<state>NULL</state>
+		<postalCode>079903</postalCode>
+		<country>Singapore</country>
+		<salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+		<creditLimit>103800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>151</customerNumber>
+		<checkNumber>BF686658</checkNumber>
+		<paymentDate>2003-12-22</paymentDate>
+		<amount>58793.53</amount>
+		<customerName>Muscle Machine Inc</customerName>
+		<contactLastName>Young</contactLastName>
+		<contactFirstName>Jeff</contactFirstName>
+		<phone>2125557413</phone>
+		<addressLine1>4092 Furth Circle</addressLine1>
+		<addressLine2>Suite 400</addressLine2>
+		<city>NYC</city>
+		<state>NY</state>
+		<postalCode>10022</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+		<creditLimit>138500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>151</customerNumber>
+		<checkNumber>GB852215</checkNumber>
+		<paymentDate>2004-07-26</paymentDate>
+		<amount>20314.44</amount>
+		<customerName>Muscle Machine Inc</customerName>
+		<contactLastName>Young</contactLastName>
+		<contactFirstName>Jeff</contactFirstName>
+		<phone>2125557413</phone>
+		<addressLine1>4092 Furth Circle</addressLine1>
+		<addressLine2>Suite 400</addressLine2>
+		<city>NYC</city>
+		<state>NY</state>
+		<postalCode>10022</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+		<creditLimit>138500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>151</customerNumber>
+		<checkNumber>H124</checkNumber>
+		<paymentDate>2024-02-07</paymentDate>
+		<amount>70.00</amount>
+		<customerName>Muscle Machine Inc</customerName>
+		<contactLastName>Young</contactLastName>
+		<contactFirstName>Jeff</contactFirstName>
+		<phone>2125557413</phone>
+		<addressLine1>4092 Furth Circle</addressLine1>
+		<addressLine2>Suite 400</addressLine2>
+		<city>NYC</city>
+		<state>NY</state>
+		<postalCode>10022</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+		<creditLimit>138500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>151</customerNumber>
+		<checkNumber>IP568906</checkNumber>
+		<paymentDate>2003-06-18</paymentDate>
+		<amount>58841.35</amount>
+		<customerName>Muscle Machine Inc</customerName>
+		<contactLastName>Young</contactLastName>
+		<contactFirstName>Jeff</contactFirstName>
+		<phone>2125557413</phone>
+		<addressLine1>4092 Furth Circle</addressLine1>
+		<addressLine2>Suite 400</addressLine2>
+		<city>NYC</city>
+		<state>NY</state>
+		<postalCode>10022</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+		<creditLimit>138500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>151</customerNumber>
+		<checkNumber>KI884577</checkNumber>
+		<paymentDate>2004-12-14</paymentDate>
+		<amount>39964.63</amount>
+		<customerName>Muscle Machine Inc</customerName>
+		<contactLastName>Young</contactLastName>
+		<contactFirstName>Jeff</contactFirstName>
+		<phone>2125557413</phone>
+		<addressLine1>4092 Furth Circle</addressLine1>
+		<addressLine2>Suite 400</addressLine2>
+		<city>NYC</city>
+		<state>NY</state>
+		<postalCode>10022</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+		<creditLimit>138500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>161</customerNumber>
+		<checkNumber>BR352384</checkNumber>
+		<paymentDate>2004-11-14</paymentDate>
+		<amount>2434.25</amount>
+		<customerName>Technics Stores Inc.</customerName>
+		<contactLastName>Hashimoto</contactLastName>
+		<contactFirstName>Juri</contactFirstName>
+		<phone>6505556809</phone>
+		<addressLine1>9408 Furth Circle</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Burlingame</city>
+		<state>CA</state>
+		<postalCode>94217</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+		<creditLimit>84600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>161</customerNumber>
+		<checkNumber>BR478494</checkNumber>
+		<paymentDate>2003-11-18</paymentDate>
+		<amount>50743.65</amount>
+		<customerName>Technics Stores Inc.</customerName>
+		<contactLastName>Hashimoto</contactLastName>
+		<contactFirstName>Juri</contactFirstName>
+		<phone>6505556809</phone>
+		<addressLine1>9408 Furth Circle</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Burlingame</city>
+		<state>CA</state>
+		<postalCode>94217</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+		<creditLimit>84600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>161</customerNumber>
+		<checkNumber>KG644125</checkNumber>
+		<paymentDate>2005-02-02</paymentDate>
+		<amount>12692.19</amount>
+		<customerName>Technics Stores Inc.</customerName>
+		<contactLastName>Hashimoto</contactLastName>
+		<contactFirstName>Juri</contactFirstName>
+		<phone>6505556809</phone>
+		<addressLine1>9408 Furth Circle</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Burlingame</city>
+		<state>CA</state>
+		<postalCode>94217</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+		<creditLimit>84600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>161</customerNumber>
+		<checkNumber>NI908214</checkNumber>
+		<paymentDate>2003-08-05</paymentDate>
+		<amount>38675.13</amount>
+		<customerName>Technics Stores Inc.</customerName>
+		<contactLastName>Hashimoto</contactLastName>
+		<contactFirstName>Juri</contactFirstName>
+		<phone>6505556809</phone>
+		<addressLine1>9408 Furth Circle</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Burlingame</city>
+		<state>CA</state>
+		<postalCode>94217</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+		<creditLimit>84600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>166</customerNumber>
+		<checkNumber>BQ327613</checkNumber>
+		<paymentDate>2004-09-16</paymentDate>
+		<amount>38785.48</amount>
+		<customerName>Handji Giftsand Co</customerName>
+		<contactLastName>Victorino</contactLastName>
+		<contactFirstName>Wendy</contactFirstName>
+		<phone>+65 224 1555</phone>
+		<addressLine1>106 Linden Road Sandown</addressLine1>
+		<addressLine2>2nd Floor</addressLine2>
+		<city>Singapore</city>
+		<state>NULL</state>
+		<postalCode>069045</postalCode>
+		<country>Singapore</country>
+		<salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+		<creditLimit>97900.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>166</customerNumber>
+		<checkNumber>DC979307</checkNumber>
+		<paymentDate>2004-07-07</paymentDate>
+		<amount>44160.92</amount>
+		<customerName>Handji Giftsand Co</customerName>
+		<contactLastName>Victorino</contactLastName>
+		<contactFirstName>Wendy</contactFirstName>
+		<phone>+65 224 1555</phone>
+		<addressLine1>106 Linden Road Sandown</addressLine1>
+		<addressLine2>2nd Floor</addressLine2>
+		<city>Singapore</city>
+		<state>NULL</state>
+		<postalCode>069045</postalCode>
+		<country>Singapore</country>
+		<salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+		<creditLimit>97900.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>166</customerNumber>
+		<checkNumber>LA318629</checkNumber>
+		<paymentDate>2004-02-28</paymentDate>
+		<amount>22474.17</amount>
+		<customerName>Handji Giftsand Co</customerName>
+		<contactLastName>Victorino</contactLastName>
+		<contactFirstName>Wendy</contactFirstName>
+		<phone>+65 224 1555</phone>
+		<addressLine1>106 Linden Road Sandown</addressLine1>
+		<addressLine2>2nd Floor</addressLine2>
+		<city>Singapore</city>
+		<state>NULL</state>
+		<postalCode>069045</postalCode>
+		<country>Singapore</country>
+		<salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+		<creditLimit>97900.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>167</customerNumber>
+		<checkNumber>ED743615</checkNumber>
+		<paymentDate>2004-09-19</paymentDate>
+		<amount>12538.01</amount>
+		<customerName>Herkku Gifts</customerName>
+		<contactLastName>Oeztan</contactLastName>
+		<contactFirstName>Veysel</contactFirstName>
+		<phone>+47 2267 3215</phone>
+		<addressLine1>Brehmen St. 121</addressLine1>
+		<addressLine2>PR 334 Sentrum</addressLine2>
+		<city>Bergen</city>
+		<state>NULL</state>
+		<postalCode>N 5804</postalCode>
+		<country>Norway  </country>
+		<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+		<creditLimit>96800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>167</customerNumber>
+		<checkNumber>GN228846</checkNumber>
+		<paymentDate>2003-12-03</paymentDate>
+		<amount>85024.46</amount>
+		<customerName>Herkku Gifts</customerName>
+		<contactLastName>Oeztan</contactLastName>
+		<contactFirstName>Veysel</contactFirstName>
+		<phone>+47 2267 3215</phone>
+		<addressLine1>Brehmen St. 121</addressLine1>
+		<addressLine2>PR 334 Sentrum</addressLine2>
+		<city>Bergen</city>
+		<state>NULL</state>
+		<postalCode>N 5804</postalCode>
+		<country>Norway  </country>
+		<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+		<creditLimit>96800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>171</customerNumber>
+		<checkNumber>GB878038</checkNumber>
+		<paymentDate>2004-03-15</paymentDate>
+		<amount>18997.89</amount>
+		<customerName>Daedalus Designs Imports</customerName>
+		<contactLastName>Rancé</contactLastName>
+		<contactFirstName>Martine </contactFirstName>
+		<phone>20.16.1555</phone>
+		<addressLine1>184, chaussée de Tournai</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Lille</city>
+		<state>NULL</state>
+		<postalCode>59000</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>82900.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>171</customerNumber>
+		<checkNumber>IL104425</checkNumber>
+		<paymentDate>2003-11-22</paymentDate>
+		<amount>42783.81</amount>
+		<customerName>Daedalus Designs Imports</customerName>
+		<contactLastName>Rancé</contactLastName>
+		<contactFirstName>Martine </contactFirstName>
+		<phone>20.16.1555</phone>
+		<addressLine1>184, chaussée de Tournai</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Lille</city>
+		<state>NULL</state>
+		<postalCode>59000</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>82900.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>172</customerNumber>
+		<checkNumber>AD832091</checkNumber>
+		<paymentDate>2004-09-09</paymentDate>
+		<amount>1960.80</amount>
+		<customerName>La Corne D'abondance, Co.</customerName>
+		<contactLastName>Bertrand</contactLastName>
+		<contactFirstName>Marie</contactFirstName>
+		<phone>(1) 42.34.2555</phone>
+		<addressLine1>265, boulevard Charonne</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Paris</city>
+		<state>NULL</state>
+		<postalCode>75012</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+		<creditLimit>84300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>172</customerNumber>
+		<checkNumber>CE51751</checkNumber>
+		<paymentDate>2004-12-04</paymentDate>
+		<amount>51209.58</amount>
+		<customerName>La Corne D'abondance, Co.</customerName>
+		<contactLastName>Bertrand</contactLastName>
+		<contactFirstName>Marie</contactFirstName>
+		<phone>(1) 42.34.2555</phone>
+		<addressLine1>265, boulevard Charonne</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Paris</city>
+		<state>NULL</state>
+		<postalCode>75012</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+		<creditLimit>84300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>172</customerNumber>
+		<checkNumber>EH208589</checkNumber>
+		<paymentDate>2003-04-20</paymentDate>
+		<amount>33383.14</amount>
+		<customerName>La Corne D'abondance, Co.</customerName>
+		<contactLastName>Bertrand</contactLastName>
+		<contactFirstName>Marie</contactFirstName>
+		<phone>(1) 42.34.2555</phone>
+		<addressLine1>265, boulevard Charonne</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Paris</city>
+		<state>NULL</state>
+		<postalCode>75012</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+		<creditLimit>84300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>173</customerNumber>
+		<checkNumber>GP545698</checkNumber>
+		<paymentDate>2004-05-13</paymentDate>
+		<amount>11843.45</amount>
+		<customerName>Cambridge Collectables Co.</customerName>
+		<contactLastName>Tseng</contactLastName>
+		<contactFirstName>Jerry</contactFirstName>
+		<phone>6175555555</phone>
+		<addressLine1>4658 Baden Av.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Cambridge</city>
+		<state>MA</state>
+		<postalCode>51247</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+		<creditLimit>43400.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>173</customerNumber>
+		<checkNumber>IG462397</checkNumber>
+		<paymentDate>2004-03-29</paymentDate>
+		<amount>20355.24</amount>
+		<customerName>Cambridge Collectables Co.</customerName>
+		<contactLastName>Tseng</contactLastName>
+		<contactFirstName>Jerry</contactFirstName>
+		<phone>6175555555</phone>
+		<addressLine1>4658 Baden Av.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Cambridge</city>
+		<state>MA</state>
+		<postalCode>51247</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+		<creditLimit>43400.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>175</customerNumber>
+		<checkNumber>CITI3434344</checkNumber>
+		<paymentDate>2005-05-19</paymentDate>
+		<amount>28500.78</amount>
+		<customerName>Gift Depot Inc.</customerName>
+		<contactLastName>King</contactLastName>
+		<contactFirstName>Julie</contactFirstName>
+		<phone>2035552570</phone>
+		<addressLine1>25593 South Bay Ln.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Bridgewater</city>
+		<state>CT</state>
+		<postalCode>97562</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+		<creditLimit>84300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>175</customerNumber>
+		<checkNumber>IO448913</checkNumber>
+		<paymentDate>2003-11-19</paymentDate>
+		<amount>24879.08</amount>
+		<customerName>Gift Depot Inc.</customerName>
+		<contactLastName>King</contactLastName>
+		<contactFirstName>Julie</contactFirstName>
+		<phone>2035552570</phone>
+		<addressLine1>25593 South Bay Ln.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Bridgewater</city>
+		<state>CT</state>
+		<postalCode>97562</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+		<creditLimit>84300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>175</customerNumber>
+		<checkNumber>PI15215</checkNumber>
+		<paymentDate>2004-07-10</paymentDate>
+		<amount>42044.77</amount>
+		<customerName>Gift Depot Inc.</customerName>
+		<contactLastName>King</contactLastName>
+		<contactFirstName>Julie</contactFirstName>
+		<phone>2035552570</phone>
+		<addressLine1>25593 South Bay Ln.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Bridgewater</city>
+		<state>CT</state>
+		<postalCode>97562</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+		<creditLimit>84300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>177</customerNumber>
+		<checkNumber>AU750837</checkNumber>
+		<paymentDate>2004-04-17</paymentDate>
+		<amount>15183.63</amount>
+		<customerName>Osaka Souveniers Co.</customerName>
+		<contactLastName>Kentary</contactLastName>
+		<contactFirstName>Mory</contactFirstName>
+		<phone>+81 06 6342 5555</phone>
+		<addressLine1>1-6-20 Dojima</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Kita-ku</city>
+		<state>Osaka</state>
+		<postalCode> 530-0003</postalCode>
+		<country>Japan</country>
+		<salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+		<creditLimit>81200.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>177</customerNumber>
+		<checkNumber>CI381435</checkNumber>
+		<paymentDate>2004-01-19</paymentDate>
+		<amount>47177.59</amount>
+		<customerName>Osaka Souveniers Co.</customerName>
+		<contactLastName>Kentary</contactLastName>
+		<contactFirstName>Mory</contactFirstName>
+		<phone>+81 06 6342 5555</phone>
+		<addressLine1>1-6-20 Dojima</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Kita-ku</city>
+		<state>Osaka</state>
+		<postalCode> 530-0003</postalCode>
+		<country>Japan</country>
+		<salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+		<creditLimit>81200.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>181</customerNumber>
+		<checkNumber>CM564612</checkNumber>
+		<paymentDate>2004-04-25</paymentDate>
+		<amount>22602.36</amount>
+		<customerName>Vitachrome Inc.</customerName>
+		<contactLastName>Frick</contactLastName>
+		<contactFirstName>Michael</contactFirstName>
+		<phone>2125551500</phone>
+		<addressLine1>2678 Kingston Rd.</addressLine1>
+		<addressLine2>Suite 101</addressLine2>
+		<city>NYC</city>
+		<state>NY</state>
+		<postalCode>10022</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+		<creditLimit>76400.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>181</customerNumber>
+		<checkNumber>GQ132144</checkNumber>
+		<paymentDate>2003-01-30</paymentDate>
+		<amount>5494.78</amount>
+		<customerName>Vitachrome Inc.</customerName>
+		<contactLastName>Frick</contactLastName>
+		<contactFirstName>Michael</contactFirstName>
+		<phone>2125551500</phone>
+		<addressLine1>2678 Kingston Rd.</addressLine1>
+		<addressLine2>Suite 101</addressLine2>
+		<city>NYC</city>
+		<state>NY</state>
+		<postalCode>10022</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+		<creditLimit>76400.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>181</customerNumber>
+		<checkNumber>OH367219</checkNumber>
+		<paymentDate>2004-11-16</paymentDate>
+		<amount>44400.50</amount>
+		<customerName>Vitachrome Inc.</customerName>
+		<contactLastName>Frick</contactLastName>
+		<contactFirstName>Michael</contactFirstName>
+		<phone>2125551500</phone>
+		<addressLine1>2678 Kingston Rd.</addressLine1>
+		<addressLine2>Suite 101</addressLine2>
+		<city>NYC</city>
+		<state>NY</state>
+		<postalCode>10022</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+		<creditLimit>76400.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>186</customerNumber>
+		<checkNumber>AE192287</checkNumber>
+		<paymentDate>2005-03-10</paymentDate>
+		<amount>23602.90</amount>
+		<customerName>Toys of Finland, Co.</customerName>
+		<contactLastName>Karttunen</contactLastName>
+		<contactFirstName>Matti</contactFirstName>
+		<phone>90-224 8555</phone>
+		<addressLine1>Keskuskatu 45</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Helsinki</city>
+		<state>NULL</state>
+		<postalCode>21240</postalCode>
+		<country>Finland</country>
+		<salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+		<creditLimit>96500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>186</customerNumber>
+		<checkNumber>AK412714</checkNumber>
+		<paymentDate>2003-10-27</paymentDate>
+		<amount>37602.48</amount>
+		<customerName>Toys of Finland, Co.</customerName>
+		<contactLastName>Karttunen</contactLastName>
+		<contactFirstName>Matti</contactFirstName>
+		<phone>90-224 8555</phone>
+		<addressLine1>Keskuskatu 45</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Helsinki</city>
+		<state>NULL</state>
+		<postalCode>21240</postalCode>
+		<country>Finland</country>
+		<salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+		<creditLimit>96500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>186</customerNumber>
+		<checkNumber>KA602407</checkNumber>
+		<paymentDate>2004-10-21</paymentDate>
+		<amount>34341.08</amount>
+		<customerName>Toys of Finland, Co.</customerName>
+		<contactLastName>Karttunen</contactLastName>
+		<contactFirstName>Matti</contactFirstName>
+		<phone>90-224 8555</phone>
+		<addressLine1>Keskuskatu 45</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Helsinki</city>
+		<state>NULL</state>
+		<postalCode>21240</postalCode>
+		<country>Finland</country>
+		<salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+		<creditLimit>96500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>187</customerNumber>
+		<checkNumber>AM968797</checkNumber>
+		<paymentDate>2004-11-03</paymentDate>
+		<amount>52825.29</amount>
+		<customerName>AV Stores, Co.</customerName>
+		<contactLastName>Ashworth</contactLastName>
+		<contactFirstName>Rachel</contactFirstName>
+		<phone>(171) 555-1555</phone>
+		<addressLine1>Fauntleroy Circus</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Manchester</city>
+		<state>NULL</state>
+		<postalCode>EC2 5NT</postalCode>
+		<country>UK</country>
+		<salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+		<creditLimit>136800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>187</customerNumber>
+		<checkNumber>BQ39062</checkNumber>
+		<paymentDate>2004-12-08</paymentDate>
+		<amount>47159.11</amount>
+		<customerName>AV Stores, Co.</customerName>
+		<contactLastName>Ashworth</contactLastName>
+		<contactFirstName>Rachel</contactFirstName>
+		<phone>(171) 555-1555</phone>
+		<addressLine1>Fauntleroy Circus</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Manchester</city>
+		<state>NULL</state>
+		<postalCode>EC2 5NT</postalCode>
+		<country>UK</country>
+		<salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+		<creditLimit>136800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>187</customerNumber>
+		<checkNumber>KL124726</checkNumber>
+		<paymentDate>2003-03-27</paymentDate>
+		<amount>48425.69</amount>
+		<customerName>AV Stores, Co.</customerName>
+		<contactLastName>Ashworth</contactLastName>
+		<contactFirstName>Rachel</contactFirstName>
+		<phone>(171) 555-1555</phone>
+		<addressLine1>Fauntleroy Circus</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Manchester</city>
+		<state>NULL</state>
+		<postalCode>EC2 5NT</postalCode>
+		<country>UK</country>
+		<salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+		<creditLimit>136800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>189</customerNumber>
+		<checkNumber>BO711618</checkNumber>
+		<paymentDate>2004-10-03</paymentDate>
+		<amount>17359.53</amount>
+		<customerName>Clover Collections, Co.</customerName>
+		<contactLastName>Cassidy</contactLastName>
+		<contactFirstName>Dean</contactFirstName>
+		<phone>+353 1862 1555</phone>
+		<addressLine1>25 Maiden Lane</addressLine1>
+		<addressLine2>Floor No. 4</addressLine2>
+		<city>Dublin</city>
+		<state>NULL</state>
+		<postalCode>2</postalCode>
+		<country>Ireland</country>
+		<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+		<creditLimit>69400.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>189</customerNumber>
+		<checkNumber>NM916675</checkNumber>
+		<paymentDate>2004-03-01</paymentDate>
+		<amount>32538.74</amount>
+		<customerName>Clover Collections, Co.</customerName>
+		<contactLastName>Cassidy</contactLastName>
+		<contactFirstName>Dean</contactFirstName>
+		<phone>+353 1862 1555</phone>
+		<addressLine1>25 Maiden Lane</addressLine1>
+		<addressLine2>Floor No. 4</addressLine2>
+		<city>Dublin</city>
+		<state>NULL</state>
+		<postalCode>2</postalCode>
+		<country>Ireland</country>
+		<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+		<creditLimit>69400.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>201</customerNumber>
+		<checkNumber>DP677013</checkNumber>
+		<paymentDate>2003-10-20</paymentDate>
+		<amount>23908.24</amount>
+		<customerName>UK Collectables, Ltd.</customerName>
+		<contactLastName>Devon</contactLastName>
+		<contactFirstName>Elizabeth</contactFirstName>
+		<phone>(171) 555-2282</phone>
+		<addressLine1>12, Berkeley Gardens Blvd</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Liverpool</city>
+		<state>NULL</state>
+		<postalCode>WX1 6LT</postalCode>
+		<country>UK</country>
+		<salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+		<creditLimit>92700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>201</customerNumber>
+		<checkNumber>OO846801</checkNumber>
+		<paymentDate>2004-06-15</paymentDate>
+		<amount>37258.94</amount>
+		<customerName>UK Collectables, Ltd.</customerName>
+		<contactLastName>Devon</contactLastName>
+		<contactFirstName>Elizabeth</contactFirstName>
+		<phone>(171) 555-2282</phone>
+		<addressLine1>12, Berkeley Gardens Blvd</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Liverpool</city>
+		<state>NULL</state>
+		<postalCode>WX1 6LT</postalCode>
+		<country>UK</country>
+		<salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+		<creditLimit>92700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>202</customerNumber>
+		<checkNumber>HI358554</checkNumber>
+		<paymentDate>2003-12-18</paymentDate>
+		<amount>36527.61</amount>
+		<customerName>Canadian Gift Exchange Network</customerName>
+		<contactLastName>Tamuri</contactLastName>
+		<contactFirstName>Yoshi </contactFirstName>
+		<phone>(604) 555-3392</phone>
+		<addressLine1>1900 Oak St.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Vancouver</city>
+		<state>BC</state>
+		<postalCode>V3F 2K1</postalCode>
+		<country>Canada</country>
+		<salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+		<creditLimit>90300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>202</customerNumber>
+		<checkNumber>IQ627690</checkNumber>
+		<paymentDate>2004-11-08</paymentDate>
+		<amount>33594.58</amount>
+		<customerName>Canadian Gift Exchange Network</customerName>
+		<contactLastName>Tamuri</contactLastName>
+		<contactFirstName>Yoshi </contactFirstName>
+		<phone>(604) 555-3392</phone>
+		<addressLine1>1900 Oak St.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Vancouver</city>
+		<state>BC</state>
+		<postalCode>V3F 2K1</postalCode>
+		<country>Canada</country>
+		<salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+		<creditLimit>90300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>204</customerNumber>
+		<checkNumber>GC697638</checkNumber>
+		<paymentDate>2004-08-13</paymentDate>
+		<amount>51152.86</amount>
+		<customerName>Online Mini Collectables</customerName>
+		<contactLastName>Barajas</contactLastName>
+		<contactFirstName>Miguel</contactFirstName>
+		<phone>6175557555</phone>
+		<addressLine1>7635 Spinnaker Dr.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Brickhaven</city>
+		<state>MA</state>
+		<postalCode>58339</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+		<creditLimit>68700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>204</customerNumber>
+		<checkNumber>IS150005</checkNumber>
+		<paymentDate>2004-09-24</paymentDate>
+		<amount>4424.40</amount>
+		<customerName>Online Mini Collectables</customerName>
+		<contactLastName>Barajas</contactLastName>
+		<contactFirstName>Miguel</contactFirstName>
+		<phone>6175557555</phone>
+		<addressLine1>7635 Spinnaker Dr.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Brickhaven</city>
+		<state>MA</state>
+		<postalCode>58339</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+		<creditLimit>68700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>205</customerNumber>
+		<checkNumber>GL756480</checkNumber>
+		<paymentDate>2003-12-04</paymentDate>
+		<amount>3879.96</amount>
+		<customerName>Toys4GrownUps.com</customerName>
+		<contactLastName>Young</contactLastName>
+		<contactFirstName>Julie</contactFirstName>
+		<phone>6265557265</phone>
+		<addressLine1>78934 Hillside Dr.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Pasadena</city>
+		<state>CA</state>
+		<postalCode>90003</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+		<creditLimit>90700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>205</customerNumber>
+		<checkNumber>LL562733</checkNumber>
+		<paymentDate>2003-09-05</paymentDate>
+		<amount>50342.74</amount>
+		<customerName>Toys4GrownUps.com</customerName>
+		<contactLastName>Young</contactLastName>
+		<contactFirstName>Julie</contactFirstName>
+		<phone>6265557265</phone>
+		<addressLine1>78934 Hillside Dr.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Pasadena</city>
+		<state>CA</state>
+		<postalCode>90003</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+		<creditLimit>90700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>205</customerNumber>
+		<checkNumber>NM739638</checkNumber>
+		<paymentDate>2005-02-06</paymentDate>
+		<amount>39580.60</amount>
+		<customerName>Toys4GrownUps.com</customerName>
+		<contactLastName>Young</contactLastName>
+		<contactFirstName>Julie</contactFirstName>
+		<phone>6265557265</phone>
+		<addressLine1>78934 Hillside Dr.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Pasadena</city>
+		<state>CA</state>
+		<postalCode>90003</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+		<creditLimit>90700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>209</customerNumber>
+		<checkNumber>BOAF82044</checkNumber>
+		<paymentDate>2005-05-03</paymentDate>
+		<amount>35157.75</amount>
+		<customerName>Mini Caravy</customerName>
+		<contactLastName>Citeaux</contactLastName>
+		<contactFirstName>Frédérique </contactFirstName>
+		<phone>88.60.1555</phone>
+		<addressLine1>24, place Kléber</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Strasbourg</city>
+		<state>NULL</state>
+		<postalCode>67000</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>53800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>209</customerNumber>
+		<checkNumber>ED520529</checkNumber>
+		<paymentDate>2004-06-21</paymentDate>
+		<amount>4632.31</amount>
+		<customerName>Mini Caravy</customerName>
+		<contactLastName>Citeaux</contactLastName>
+		<contactFirstName>Frédérique </contactFirstName>
+		<phone>88.60.1555</phone>
+		<addressLine1>24, place Kléber</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Strasbourg</city>
+		<state>NULL</state>
+		<postalCode>67000</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>53800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>209</customerNumber>
+		<checkNumber>PH785937</checkNumber>
+		<paymentDate>2004-05-04</paymentDate>
+		<amount>36069.26</amount>
+		<customerName>Mini Caravy</customerName>
+		<contactLastName>Citeaux</contactLastName>
+		<contactFirstName>Frédérique </contactFirstName>
+		<phone>88.60.1555</phone>
+		<addressLine1>24, place Kléber</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Strasbourg</city>
+		<state>NULL</state>
+		<postalCode>67000</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>53800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>211</customerNumber>
+		<checkNumber>BJ535230</checkNumber>
+		<paymentDate>2003-12-09</paymentDate>
+		<amount>45480.79</amount>
+		<customerName>King Kong Collectables, Co.</customerName>
+		<contactLastName>Gao</contactLastName>
+		<contactFirstName>Mike</contactFirstName>
+		<phone>+852 2251 1555</phone>
+		<addressLine1>Bank of China Tower</addressLine1>
+		<addressLine2>1 Garden Road</addressLine2>
+		<city>Central Hong Kong</city>
+		<state>NULL</state>
+		<postalCode>NULL</postalCode>
+		<country>Hong Kong</country>
+		<salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+		<creditLimit>58600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>216</customerNumber>
+		<checkNumber>BG407567</checkNumber>
+		<paymentDate>2003-05-09</paymentDate>
+		<amount>3101.40</amount>
+		<customerName>Enaco Distributors</customerName>
+		<contactLastName>Saavedra</contactLastName>
+		<contactFirstName>Eduardo </contactFirstName>
+		<phone>(93) 203 4555</phone>
+		<addressLine1>Rambla de Cataluña, 23</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Barcelona</city>
+		<state>NULL</state>
+		<postalCode>08022</postalCode>
+		<country>Spain</country>
+		<salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
+		<creditLimit>60300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>216</customerNumber>
+		<checkNumber>ML780814</checkNumber>
+		<paymentDate>2004-12-06</paymentDate>
+		<amount>24945.21</amount>
+		<customerName>Enaco Distributors</customerName>
+		<contactLastName>Saavedra</contactLastName>
+		<contactFirstName>Eduardo </contactFirstName>
+		<phone>(93) 203 4555</phone>
+		<addressLine1>Rambla de Cataluña, 23</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Barcelona</city>
+		<state>NULL</state>
+		<postalCode>08022</postalCode>
+		<country>Spain</country>
+		<salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
+		<creditLimit>60300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>216</customerNumber>
+		<checkNumber>MM342086</checkNumber>
+		<paymentDate>2003-12-14</paymentDate>
+		<amount>40473.86</amount>
+		<customerName>Enaco Distributors</customerName>
+		<contactLastName>Saavedra</contactLastName>
+		<contactFirstName>Eduardo </contactFirstName>
+		<phone>(93) 203 4555</phone>
+		<addressLine1>Rambla de Cataluña, 23</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Barcelona</city>
+		<state>NULL</state>
+		<postalCode>08022</postalCode>
+		<country>Spain</country>
+		<salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
+		<creditLimit>60300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>219</customerNumber>
+		<checkNumber>BN17870</checkNumber>
+		<paymentDate>2005-03-02</paymentDate>
+		<amount>3452.75</amount>
+		<customerName>Boards and Toys Co.</customerName>
+		<contactLastName>Young</contactLastName>
+		<contactFirstName>Mary</contactFirstName>
+		<phone>3105552373</phone>
+		<addressLine1>4097 Douglas Av.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Glendale</city>
+		<state>CA</state>
+		<postalCode>92561</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+		<creditLimit>11000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>219</customerNumber>
+		<checkNumber>BR941480</checkNumber>
+		<paymentDate>2003-10-18</paymentDate>
+		<amount>4465.85</amount>
+		<customerName>Boards and Toys Co.</customerName>
+		<contactLastName>Young</contactLastName>
+		<contactFirstName>Mary</contactFirstName>
+		<phone>3105552373</phone>
+		<addressLine1>4097 Douglas Av.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Glendale</city>
+		<state>CA</state>
+		<postalCode>92561</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+		<creditLimit>11000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>227</customerNumber>
+		<checkNumber>MQ413968</checkNumber>
+		<paymentDate>2003-10-31</paymentDate>
+		<amount>36164.46</amount>
+		<customerName>Heintze Collectables</customerName>
+		<contactLastName>Ibsen</contactLastName>
+		<contactFirstName>Palle</contactFirstName>
+		<phone>86 21 3555</phone>
+		<addressLine1>Smagsloget 45</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Århus</city>
+		<state>NULL</state>
+		<postalCode>8200</postalCode>
+		<country>Denmark</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>120800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>227</customerNumber>
+		<checkNumber>NU21326</checkNumber>
+		<paymentDate>2004-11-02</paymentDate>
+		<amount>53745.34</amount>
+		<customerName>Heintze Collectables</customerName>
+		<contactLastName>Ibsen</contactLastName>
+		<contactFirstName>Palle</contactFirstName>
+		<phone>86 21 3555</phone>
+		<addressLine1>Smagsloget 45</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Århus</city>
+		<state>NULL</state>
+		<postalCode>8200</postalCode>
+		<country>Denmark</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>120800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>233</customerNumber>
+		<checkNumber>BOFA23232</checkNumber>
+		<paymentDate>2005-05-20</paymentDate>
+		<amount>29070.38</amount>
+		<customerName>Québec Home Shopping Network</customerName>
+		<contactLastName>Fresnière</contactLastName>
+		<contactFirstName>Jean </contactFirstName>
+		<phone>(514) 555-8054</phone>
+		<addressLine1>43 rue St. Laurent</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Montréal</city>
+		<state>Québec</state>
+		<postalCode>H1J 1C3</postalCode>
+		<country>Canada</country>
+		<salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+		<creditLimit>48700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>233</customerNumber>
+		<checkNumber>II180006</checkNumber>
+		<paymentDate>2004-07-01</paymentDate>
+		<amount>22997.45</amount>
+		<customerName>Québec Home Shopping Network</customerName>
+		<contactLastName>Fresnière</contactLastName>
+		<contactFirstName>Jean </contactFirstName>
+		<phone>(514) 555-8054</phone>
+		<addressLine1>43 rue St. Laurent</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Montréal</city>
+		<state>Québec</state>
+		<postalCode>H1J 1C3</postalCode>
+		<country>Canada</country>
+		<salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+		<creditLimit>48700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>233</customerNumber>
+		<checkNumber>JG981190</checkNumber>
+		<paymentDate>2003-11-18</paymentDate>
+		<amount>16909.84</amount>
+		<customerName>Québec Home Shopping Network</customerName>
+		<contactLastName>Fresnière</contactLastName>
+		<contactFirstName>Jean </contactFirstName>
+		<phone>(514) 555-8054</phone>
+		<addressLine1>43 rue St. Laurent</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Montréal</city>
+		<state>Québec</state>
+		<postalCode>H1J 1C3</postalCode>
+		<country>Canada</country>
+		<salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+		<creditLimit>48700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>239</customerNumber>
+		<checkNumber>NQ865547</checkNumber>
+		<paymentDate>2004-03-15</paymentDate>
+		<amount>80375.24</amount>
+		<customerName>Collectable Mini Designs Co.</customerName>
+		<contactLastName>Thompson</contactLastName>
+		<contactFirstName>Valarie</contactFirstName>
+		<phone>7605558146</phone>
+		<addressLine1>361 Furth Circle</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>San Diego</city>
+		<state>CA</state>
+		<postalCode>91217</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+		<creditLimit>105000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>240</customerNumber>
+		<checkNumber>IF245157</checkNumber>
+		<paymentDate>2004-11-16</paymentDate>
+		<amount>46788.14</amount>
+		<customerName>giftsbymail.co.uk</customerName>
+		<contactLastName>Bennett</contactLastName>
+		<contactFirstName>Helen </contactFirstName>
+		<phone>(198) 555-8888</phone>
+		<addressLine1>Garden House</addressLine1>
+		<addressLine2>Crowther Way 23</addressLine2>
+		<city>Cowes</city>
+		<state>Isle of Wight</state>
+		<postalCode>PO31 7PJ</postalCode>
+		<country>UK</country>
+		<salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+		<creditLimit>93900.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>240</customerNumber>
+		<checkNumber>JO719695</checkNumber>
+		<paymentDate>2004-03-28</paymentDate>
+		<amount>24995.61</amount>
+		<customerName>giftsbymail.co.uk</customerName>
+		<contactLastName>Bennett</contactLastName>
+		<contactFirstName>Helen </contactFirstName>
+		<phone>(198) 555-8888</phone>
+		<addressLine1>Garden House</addressLine1>
+		<addressLine2>Crowther Way 23</addressLine2>
+		<city>Cowes</city>
+		<state>Isle of Wight</state>
+		<postalCode>PO31 7PJ</postalCode>
+		<country>UK</country>
+		<salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+		<creditLimit>93900.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>242</customerNumber>
+		<checkNumber>AF40894</checkNumber>
+		<paymentDate>2003-11-22</paymentDate>
+		<amount>33818.34</amount>
+		<customerName>Alpha Cognac</customerName>
+		<contactLastName>Roulet</contactLastName>
+		<contactFirstName>Annette </contactFirstName>
+		<phone>61.77.6555</phone>
+		<addressLine1>1 rue Alsace-Lorraine</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Toulouse</city>
+		<state>NULL</state>
+		<postalCode>31000</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>61100.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>242</customerNumber>
+		<checkNumber>HR224331</checkNumber>
+		<paymentDate>2005-06-03</paymentDate>
+		<amount>12432.32</amount>
+		<customerName>Alpha Cognac</customerName>
+		<contactLastName>Roulet</contactLastName>
+		<contactFirstName>Annette </contactFirstName>
+		<phone>61.77.6555</phone>
+		<addressLine1>1 rue Alsace-Lorraine</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Toulouse</city>
+		<state>NULL</state>
+		<postalCode>31000</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>61100.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>242</customerNumber>
+		<checkNumber>KI744716</checkNumber>
+		<paymentDate>2003-07-21</paymentDate>
+		<amount>14232.70</amount>
+		<customerName>Alpha Cognac</customerName>
+		<contactLastName>Roulet</contactLastName>
+		<contactFirstName>Annette </contactFirstName>
+		<phone>61.77.6555</phone>
+		<addressLine1>1 rue Alsace-Lorraine</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Toulouse</city>
+		<state>NULL</state>
+		<postalCode>31000</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>61100.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>249</customerNumber>
+		<checkNumber>IJ399820</checkNumber>
+		<paymentDate>2004-09-19</paymentDate>
+		<amount>33924.24</amount>
+		<customerName>Amica Models and Co.</customerName>
+		<contactLastName>Accorti</contactLastName>
+		<contactFirstName>Paolo </contactFirstName>
+		<phone>011-4988555</phone>
+		<addressLine1>Via Monte Bianco 34</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Torino</city>
+		<state>NULL</state>
+		<postalCode>10100</postalCode>
+		<country>Italy</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>113000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>249</customerNumber>
+		<checkNumber>NE404084</checkNumber>
+		<paymentDate>2004-09-04</paymentDate>
+		<amount>48298.99</amount>
+		<customerName>Amica Models and Co.</customerName>
+		<contactLastName>Accorti</contactLastName>
+		<contactFirstName>Paolo </contactFirstName>
+		<phone>011-4988555</phone>
+		<addressLine1>Via Monte Bianco 34</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Torino</city>
+		<state>NULL</state>
+		<postalCode>10100</postalCode>
+		<country>Italy</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>113000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>250</customerNumber>
+		<checkNumber>EQ12267</checkNumber>
+		<paymentDate>2005-05-17</paymentDate>
+		<amount>17928.09</amount>
+		<customerName>Lyon Souveniers</customerName>
+		<contactLastName>Da Silva</contactLastName>
+		<contactFirstName>Daniel</contactFirstName>
+		<phone>+33 1 46 62 7555</phone>
+		<addressLine1>27 rue du Colonel Pierre Avia</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Paris</city>
+		<state>NULL</state>
+		<postalCode>75508</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+		<creditLimit>68100.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>250</customerNumber>
+		<checkNumber>HD284647</checkNumber>
+		<paymentDate>2004-12-30</paymentDate>
+		<amount>26311.63</amount>
+		<customerName>Lyon Souveniers</customerName>
+		<contactLastName>Da Silva</contactLastName>
+		<contactFirstName>Daniel</contactFirstName>
+		<phone>+33 1 46 62 7555</phone>
+		<addressLine1>27 rue du Colonel Pierre Avia</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Paris</city>
+		<state>NULL</state>
+		<postalCode>75508</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+		<creditLimit>68100.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>250</customerNumber>
+		<checkNumber>HN114306</checkNumber>
+		<paymentDate>2003-07-18</paymentDate>
+		<amount>23419.47</amount>
+		<customerName>Lyon Souveniers</customerName>
+		<contactLastName>Da Silva</contactLastName>
+		<contactFirstName>Daniel</contactFirstName>
+		<phone>+33 1 46 62 7555</phone>
+		<addressLine1>27 rue du Colonel Pierre Avia</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Paris</city>
+		<state>NULL</state>
+		<postalCode>75508</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+		<creditLimit>68100.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>256</customerNumber>
+		<checkNumber>EP227123</checkNumber>
+		<paymentDate>2004-02-10</paymentDate>
+		<amount>5759.42</amount>
+		<customerName>Auto Associés and Cie.</customerName>
+		<contactLastName>Tonini</contactLastName>
+		<contactFirstName>Daniel </contactFirstName>
+		<phone>30.59.8555</phone>
+		<addressLine1>67, avenue de l'Europe</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Versailles</city>
+		<state>NULL</state>
+		<postalCode>78000</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>77900.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>256</customerNumber>
+		<checkNumber>HE84936</checkNumber>
+		<paymentDate>2004-10-22</paymentDate>
+		<amount>53116.99</amount>
+		<customerName>Auto Associés and Cie.</customerName>
+		<contactLastName>Tonini</contactLastName>
+		<contactFirstName>Daniel </contactFirstName>
+		<phone>30.59.8555</phone>
+		<addressLine1>67, avenue de l'Europe</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Versailles</city>
+		<state>NULL</state>
+		<postalCode>78000</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+		<creditLimit>77900.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>259</customerNumber>
+		<checkNumber>EU280955</checkNumber>
+		<paymentDate>2004-11-06</paymentDate>
+		<amount>61234.67</amount>
+		<customerName>Toms Spezialitäten, Ltd</customerName>
+		<contactLastName>Pfalzheim</contactLastName>
+		<contactFirstName>Henriette </contactFirstName>
+		<phone>0221-5554327</phone>
+		<addressLine1>Mehrheimerstr. 369</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Köln</city>
+		<state>NULL</state>
+		<postalCode>50739</postalCode>
+		<country>Germany</country>
+		<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+		<creditLimit>120400.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>259</customerNumber>
+		<checkNumber>GB361972</checkNumber>
+		<paymentDate>2003-12-07</paymentDate>
+		<amount>27988.47</amount>
+		<customerName>Toms Spezialitäten, Ltd</customerName>
+		<contactLastName>Pfalzheim</contactLastName>
+		<contactFirstName>Henriette </contactFirstName>
+		<phone>0221-5554327</phone>
+		<addressLine1>Mehrheimerstr. 369</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Köln</city>
+		<state>NULL</state>
+		<postalCode>50739</postalCode>
+		<country>Germany</country>
+		<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+		<creditLimit>120400.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>260</customerNumber>
+		<checkNumber>IO164641</checkNumber>
+		<paymentDate>2004-08-30</paymentDate>
+		<amount>37527.58</amount>
+		<customerName>Royal Canadian Collectables, Ltd.</customerName>
+		<contactLastName>Lincoln</contactLastName>
+		<contactFirstName>Elizabeth </contactFirstName>
+		<phone>(604) 555-4555</phone>
+		<addressLine1>23 Tsawassen Blvd.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Tsawassen</city>
+		<state>BC</state>
+		<postalCode>T2F 8M4</postalCode>
+		<country>Canada</country>
+		<salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+		<creditLimit>89600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>260</customerNumber>
+		<checkNumber>NH776924</checkNumber>
+		<paymentDate>2004-04-24</paymentDate>
+		<amount>29284.42</amount>
+		<customerName>Royal Canadian Collectables, Ltd.</customerName>
+		<contactLastName>Lincoln</contactLastName>
+		<contactFirstName>Elizabeth </contactFirstName>
+		<phone>(604) 555-4555</phone>
+		<addressLine1>23 Tsawassen Blvd.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Tsawassen</city>
+		<state>BC</state>
+		<postalCode>T2F 8M4</postalCode>
+		<country>Canada</country>
+		<salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+		<creditLimit>89600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>276</customerNumber>
+		<checkNumber>EM979878</checkNumber>
+		<paymentDate>2005-02-09</paymentDate>
+		<amount>27083.78</amount>
+		<customerName>Anna's Decorations, Ltd</customerName>
+		<contactLastName>O'Hara</contactLastName>
+		<contactFirstName>Anna</contactFirstName>
+		<phone>02 9936 8555</phone>
+		<addressLine1>201 Miller Street</addressLine1>
+		<addressLine2>Level 15</addressLine2>
+		<city>North Sydney</city>
+		<state>NSW</state>
+		<postalCode>2060</postalCode>
+		<country>Australia</country>
+		<salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+		<creditLimit>107800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>276</customerNumber>
+		<checkNumber>KM841847</checkNumber>
+		<paymentDate>2003-11-13</paymentDate>
+		<amount>38547.19</amount>
+		<customerName>Anna's Decorations, Ltd</customerName>
+		<contactLastName>O'Hara</contactLastName>
+		<contactFirstName>Anna</contactFirstName>
+		<phone>02 9936 8555</phone>
+		<addressLine1>201 Miller Street</addressLine1>
+		<addressLine2>Level 15</addressLine2>
+		<city>North Sydney</city>
+		<state>NSW</state>
+		<postalCode>2060</postalCode>
+		<country>Australia</country>
+		<salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+		<creditLimit>107800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>276</customerNumber>
+		<checkNumber>LE432182</checkNumber>
+		<paymentDate>2003-09-28</paymentDate>
+		<amount>41554.73</amount>
+		<customerName>Anna's Decorations, Ltd</customerName>
+		<contactLastName>O'Hara</contactLastName>
+		<contactFirstName>Anna</contactFirstName>
+		<phone>02 9936 8555</phone>
+		<addressLine1>201 Miller Street</addressLine1>
+		<addressLine2>Level 15</addressLine2>
+		<city>North Sydney</city>
+		<state>NSW</state>
+		<postalCode>2060</postalCode>
+		<country>Australia</country>
+		<salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+		<creditLimit>107800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>276</customerNumber>
+		<checkNumber>OJ819725</checkNumber>
+		<paymentDate>2005-04-30</paymentDate>
+		<amount>29848.52</amount>
+		<customerName>Anna's Decorations, Ltd</customerName>
+		<contactLastName>O'Hara</contactLastName>
+		<contactFirstName>Anna</contactFirstName>
+		<phone>02 9936 8555</phone>
+		<addressLine1>201 Miller Street</addressLine1>
+		<addressLine2>Level 15</addressLine2>
+		<city>North Sydney</city>
+		<state>NSW</state>
+		<postalCode>2060</postalCode>
+		<country>Australia</country>
+		<salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+		<creditLimit>107800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>278</customerNumber>
+		<checkNumber>BJ483870</checkNumber>
+		<paymentDate>2004-12-05</paymentDate>
+		<amount>37654.09</amount>
+		<customerName>Rovelli Gifts</customerName>
+		<contactLastName>Rovelli</contactLastName>
+		<contactFirstName>Giovanni </contactFirstName>
+		<phone>035-640555</phone>
+		<addressLine1>Via Ludovico il Moro 22</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Bergamo</city>
+		<state>NULL</state>
+		<postalCode>24100</postalCode>
+		<country>Italy</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>119600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>278</customerNumber>
+		<checkNumber>GP636783</checkNumber>
+		<paymentDate>2003-03-02</paymentDate>
+		<amount>52151.81</amount>
+		<customerName>Rovelli Gifts</customerName>
+		<contactLastName>Rovelli</contactLastName>
+		<contactFirstName>Giovanni </contactFirstName>
+		<phone>035-640555</phone>
+		<addressLine1>Via Ludovico il Moro 22</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Bergamo</city>
+		<state>NULL</state>
+		<postalCode>24100</postalCode>
+		<country>Italy</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>119600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>278</customerNumber>
+		<checkNumber>NI983021</checkNumber>
+		<paymentDate>2003-11-24</paymentDate>
+		<amount>37723.79</amount>
+		<customerName>Rovelli Gifts</customerName>
+		<contactLastName>Rovelli</contactLastName>
+		<contactFirstName>Giovanni </contactFirstName>
+		<phone>035-640555</phone>
+		<addressLine1>Via Ludovico il Moro 22</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Bergamo</city>
+		<state>NULL</state>
+		<postalCode>24100</postalCode>
+		<country>Italy</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>119600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>282</customerNumber>
+		<checkNumber>IA793562</checkNumber>
+		<paymentDate>2003-08-03</paymentDate>
+		<amount>24013.52</amount>
+		<customerName>Souveniers And Things Co.</customerName>
+		<contactLastName>Huxley</contactLastName>
+		<contactFirstName>Adrian</contactFirstName>
+		<phone>+61 2 9495 8555</phone>
+		<addressLine1>Monitor Money Building</addressLine1>
+		<addressLine2>815 Pacific Hwy</addressLine2>
+		<city>Chatswood</city>
+		<state>NSW</state>
+		<postalCode>2067</postalCode>
+		<country>Australia</country>
+		<salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+		<creditLimit>93300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>282</customerNumber>
+		<checkNumber>JT819493</checkNumber>
+		<paymentDate>2004-08-02</paymentDate>
+		<amount>35806.73</amount>
+		<customerName>Souveniers And Things Co.</customerName>
+		<contactLastName>Huxley</contactLastName>
+		<contactFirstName>Adrian</contactFirstName>
+		<phone>+61 2 9495 8555</phone>
+		<addressLine1>Monitor Money Building</addressLine1>
+		<addressLine2>815 Pacific Hwy</addressLine2>
+		<city>Chatswood</city>
+		<state>NSW</state>
+		<postalCode>2067</postalCode>
+		<country>Australia</country>
+		<salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+		<creditLimit>93300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>282</customerNumber>
+		<checkNumber>OD327378</checkNumber>
+		<paymentDate>2005-01-03</paymentDate>
+		<amount>31835.36</amount>
+		<customerName>Souveniers And Things Co.</customerName>
+		<contactLastName>Huxley</contactLastName>
+		<contactFirstName>Adrian</contactFirstName>
+		<phone>+61 2 9495 8555</phone>
+		<addressLine1>Monitor Money Building</addressLine1>
+		<addressLine2>815 Pacific Hwy</addressLine2>
+		<city>Chatswood</city>
+		<state>NSW</state>
+		<postalCode>2067</postalCode>
+		<country>Australia</country>
+		<salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+		<creditLimit>93300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>298</customerNumber>
+		<checkNumber>AJ574927</checkNumber>
+		<paymentDate>2004-03-13</paymentDate>
+		<amount>47375.92</amount>
+		<customerName>Vida Sport, Ltd</customerName>
+		<contactLastName>Holz</contactLastName>
+		<contactFirstName>Mihael</contactFirstName>
+		<phone>0897-034555</phone>
+		<addressLine1>Grenzacherweg 237</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Genève</city>
+		<state>NULL</state>
+		<postalCode>1203</postalCode>
+		<country>Switzerland</country>
+		<salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
+		<creditLimit>141300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>298</customerNumber>
+		<checkNumber>LF501133</checkNumber>
+		<paymentDate>2004-09-18</paymentDate>
+		<amount>61402.00</amount>
+		<customerName>Vida Sport, Ltd</customerName>
+		<contactLastName>Holz</contactLastName>
+		<contactFirstName>Mihael</contactFirstName>
+		<phone>0897-034555</phone>
+		<addressLine1>Grenzacherweg 237</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Genève</city>
+		<state>NULL</state>
+		<postalCode>1203</postalCode>
+		<country>Switzerland</country>
+		<salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
+		<creditLimit>141300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>299</customerNumber>
+		<checkNumber>AD304085</checkNumber>
+		<paymentDate>2003-10-24</paymentDate>
+		<amount>36798.88</amount>
+		<customerName>Norway Gifts By Mail, Co.</customerName>
+		<contactLastName>Klaeboe</contactLastName>
+		<contactFirstName>Jan</contactFirstName>
+		<phone>+47 2212 1555</phone>
+		<addressLine1>Drammensveien 126A</addressLine1>
+		<addressLine2>PB 211 Sentrum</addressLine2>
+		<city>Oslo</city>
+		<state>NULL</state>
+		<postalCode>N 0106</postalCode>
+		<country>Norway  </country>
+		<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+		<creditLimit>95100.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>299</customerNumber>
+		<checkNumber>NR157385</checkNumber>
+		<paymentDate>2004-09-05</paymentDate>
+		<amount>32260.16</amount>
+		<customerName>Norway Gifts By Mail, Co.</customerName>
+		<contactLastName>Klaeboe</contactLastName>
+		<contactFirstName>Jan</contactFirstName>
+		<phone>+47 2212 1555</phone>
+		<addressLine1>Drammensveien 126A</addressLine1>
+		<addressLine2>PB 211 Sentrum</addressLine2>
+		<city>Oslo</city>
+		<state>NULL</state>
+		<postalCode>N 0106</postalCode>
+		<country>Norway  </country>
+		<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+		<creditLimit>95100.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>311</customerNumber>
+		<checkNumber>DG336041</checkNumber>
+		<paymentDate>2005-02-15</paymentDate>
+		<amount>46770.52</amount>
+		<customerName>Oulu Toy Supplies, Inc.</customerName>
+		<contactLastName>Koskitalo</contactLastName>
+		<contactFirstName>Pirkko</contactFirstName>
+		<phone>981-443655</phone>
+		<addressLine1>Torikatu 38</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Oulu</city>
+		<state>NULL</state>
+		<postalCode>90110</postalCode>
+		<country>Finland</country>
+		<salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+		<creditLimit>90500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>311</customerNumber>
+		<checkNumber>FA728475</checkNumber>
+		<paymentDate>2003-10-06</paymentDate>
+		<amount>32723.04</amount>
+		<customerName>Oulu Toy Supplies, Inc.</customerName>
+		<contactLastName>Koskitalo</contactLastName>
+		<contactFirstName>Pirkko</contactFirstName>
+		<phone>981-443655</phone>
+		<addressLine1>Torikatu 38</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Oulu</city>
+		<state>NULL</state>
+		<postalCode>90110</postalCode>
+		<country>Finland</country>
+		<salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+		<creditLimit>90500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>311</customerNumber>
+		<checkNumber>NQ966143</checkNumber>
+		<paymentDate>2004-04-25</paymentDate>
+		<amount>16212.59</amount>
+		<customerName>Oulu Toy Supplies, Inc.</customerName>
+		<contactLastName>Koskitalo</contactLastName>
+		<contactFirstName>Pirkko</contactFirstName>
+		<phone>981-443655</phone>
+		<addressLine1>Torikatu 38</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Oulu</city>
+		<state>NULL</state>
+		<postalCode>90110</postalCode>
+		<country>Finland</country>
+		<salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+		<creditLimit>90500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>314</customerNumber>
+		<checkNumber>LQ244073</checkNumber>
+		<paymentDate>2004-08-09</paymentDate>
+		<amount>45352.47</amount>
+		<customerName>Petit Auto</customerName>
+		<contactLastName>Dewey</contactLastName>
+		<contactFirstName>Catherine </contactFirstName>
+		<phone>(02) 5554 67</phone>
+		<addressLine1>Rue Joseph-Bens 532</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Bruxelles</city>
+		<state>NULL</state>
+		<postalCode>B-1180</postalCode>
+		<country>Belgium</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>79900.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>314</customerNumber>
+		<checkNumber>MD809704</checkNumber>
+		<paymentDate>2004-03-03</paymentDate>
+		<amount>16901.38</amount>
+		<customerName>Petit Auto</customerName>
+		<contactLastName>Dewey</contactLastName>
+		<contactFirstName>Catherine </contactFirstName>
+		<phone>(02) 5554 67</phone>
+		<addressLine1>Rue Joseph-Bens 532</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Bruxelles</city>
+		<state>NULL</state>
+		<postalCode>B-1180</postalCode>
+		<country>Belgium</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>79900.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>319</customerNumber>
+		<checkNumber>HL685576</checkNumber>
+		<paymentDate>2004-11-06</paymentDate>
+		<amount>42339.76</amount>
+		<customerName>Mini Classics</customerName>
+		<contactLastName>Frick</contactLastName>
+		<contactFirstName>Steve</contactFirstName>
+		<phone>9145554562</phone>
+		<addressLine1>3758 North Pendale Street</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>White Plains</city>
+		<state>NY</state>
+		<postalCode>24067</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+		<creditLimit>102700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>319</customerNumber>
+		<checkNumber>OM548174</checkNumber>
+		<paymentDate>2003-12-07</paymentDate>
+		<amount>36092.40</amount>
+		<customerName>Mini Classics</customerName>
+		<contactLastName>Frick</contactLastName>
+		<contactFirstName>Steve</contactFirstName>
+		<phone>9145554562</phone>
+		<addressLine1>3758 North Pendale Street</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>White Plains</city>
+		<state>NY</state>
+		<postalCode>24067</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+		<creditLimit>102700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>320</customerNumber>
+		<checkNumber>GJ597719</checkNumber>
+		<paymentDate>2005-01-18</paymentDate>
+		<amount>8307.28</amount>
+		<customerName>Mini Creations Ltd.</customerName>
+		<contactLastName>Huang</contactLastName>
+		<contactFirstName>Wing</contactFirstName>
+		<phone>5085559555</phone>
+		<addressLine1>4575 Hillside Dr.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>New Bedford</city>
+		<state>MA</state>
+		<postalCode>50553</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+		<creditLimit>94500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>320</customerNumber>
+		<checkNumber>HO576374</checkNumber>
+		<paymentDate>2003-08-20</paymentDate>
+		<amount>41016.75</amount>
+		<customerName>Mini Creations Ltd.</customerName>
+		<contactLastName>Huang</contactLastName>
+		<contactFirstName>Wing</contactFirstName>
+		<phone>5085559555</phone>
+		<addressLine1>4575 Hillside Dr.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>New Bedford</city>
+		<state>MA</state>
+		<postalCode>50553</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+		<creditLimit>94500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>320</customerNumber>
+		<checkNumber>MU817160</checkNumber>
+		<paymentDate>2003-11-24</paymentDate>
+		<amount>52548.49</amount>
+		<customerName>Mini Creations Ltd.</customerName>
+		<contactLastName>Huang</contactLastName>
+		<contactFirstName>Wing</contactFirstName>
+		<phone>5085559555</phone>
+		<addressLine1>4575 Hillside Dr.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>New Bedford</city>
+		<state>MA</state>
+		<postalCode>50553</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+		<creditLimit>94500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>321</customerNumber>
+		<checkNumber>DJ15149</checkNumber>
+		<paymentDate>2003-11-03</paymentDate>
+		<amount>85559.12</amount>
+		<customerName>Corporate Gift Ideas Co.</customerName>
+		<contactLastName>Brown</contactLastName>
+		<contactFirstName>Julie</contactFirstName>
+		<phone>6505551386</phone>
+		<addressLine1>7734 Strong St.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>San Francisco</city>
+		<state>CA</state>
+		<postalCode>94217</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+		<creditLimit>105000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>321</customerNumber>
+		<checkNumber>LA556321</checkNumber>
+		<paymentDate>2005-03-15</paymentDate>
+		<amount>46781.66</amount>
+		<customerName>Corporate Gift Ideas Co.</customerName>
+		<contactLastName>Brown</contactLastName>
+		<contactFirstName>Julie</contactFirstName>
+		<phone>6505551386</phone>
+		<addressLine1>7734 Strong St.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>San Francisco</city>
+		<state>CA</state>
+		<postalCode>94217</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+		<creditLimit>105000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>323</customerNumber>
+		<checkNumber>AL493079</checkNumber>
+		<paymentDate>2005-05-23</paymentDate>
+		<amount>75020.13</amount>
+		<customerName>Down Under Souveniers, Inc</customerName>
+		<contactLastName>Graham</contactLastName>
+		<contactFirstName>Mike</contactFirstName>
+		<phone>+64 9 312 5555</phone>
+		<addressLine1>162-164 Grafton Road</addressLine1>
+		<addressLine2>Level 2</addressLine2>
+		<city>Auckland  </city>
+		<state>NULL</state>
+		<postalCode>NULL</postalCode>
+		<country>New Zealand</country>
+		<salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+		<creditLimit>88000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>323</customerNumber>
+		<checkNumber>ES347491</checkNumber>
+		<paymentDate>2004-06-24</paymentDate>
+		<amount>37281.36</amount>
+		<customerName>Down Under Souveniers, Inc</customerName>
+		<contactLastName>Graham</contactLastName>
+		<contactFirstName>Mike</contactFirstName>
+		<phone>+64 9 312 5555</phone>
+		<addressLine1>162-164 Grafton Road</addressLine1>
+		<addressLine2>Level 2</addressLine2>
+		<city>Auckland  </city>
+		<state>NULL</state>
+		<postalCode>NULL</postalCode>
+		<country>New Zealand</country>
+		<salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+		<creditLimit>88000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>323</customerNumber>
+		<checkNumber>HG738664</checkNumber>
+		<paymentDate>2003-07-05</paymentDate>
+		<amount>2880.00</amount>
+		<customerName>Down Under Souveniers, Inc</customerName>
+		<contactLastName>Graham</contactLastName>
+		<contactFirstName>Mike</contactFirstName>
+		<phone>+64 9 312 5555</phone>
+		<addressLine1>162-164 Grafton Road</addressLine1>
+		<addressLine2>Level 2</addressLine2>
+		<city>Auckland  </city>
+		<state>NULL</state>
+		<postalCode>NULL</postalCode>
+		<country>New Zealand</country>
+		<salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+		<creditLimit>88000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>323</customerNumber>
+		<checkNumber>PQ803830</checkNumber>
+		<paymentDate>2004-12-24</paymentDate>
+		<amount>39440.59</amount>
+		<customerName>Down Under Souveniers, Inc</customerName>
+		<contactLastName>Graham</contactLastName>
+		<contactFirstName>Mike</contactFirstName>
+		<phone>+64 9 312 5555</phone>
+		<addressLine1>162-164 Grafton Road</addressLine1>
+		<addressLine2>Level 2</addressLine2>
+		<city>Auckland  </city>
+		<state>NULL</state>
+		<postalCode>NULL</postalCode>
+		<country>New Zealand</country>
+		<salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+		<creditLimit>88000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>324</customerNumber>
+		<checkNumber>DQ409197</checkNumber>
+		<paymentDate>2004-12-13</paymentDate>
+		<amount>13671.82</amount>
+		<customerName>Stylish Desk Decors, Co.</customerName>
+		<contactLastName>Brown</contactLastName>
+		<contactFirstName>Ann </contactFirstName>
+		<phone>(171) 555-0297</phone>
+		<addressLine1>35 King George</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>London</city>
+		<state>NULL</state>
+		<postalCode>WX3 6FW</postalCode>
+		<country>UK</country>
+		<salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+		<creditLimit>77000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>324</customerNumber>
+		<checkNumber>FP443161</checkNumber>
+		<paymentDate>2003-07-07</paymentDate>
+		<amount>29429.14</amount>
+		<customerName>Stylish Desk Decors, Co.</customerName>
+		<contactLastName>Brown</contactLastName>
+		<contactFirstName>Ann </contactFirstName>
+		<phone>(171) 555-0297</phone>
+		<addressLine1>35 King George</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>London</city>
+		<state>NULL</state>
+		<postalCode>WX3 6FW</postalCode>
+		<country>UK</country>
+		<salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+		<creditLimit>77000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>324</customerNumber>
+		<checkNumber>HB150714</checkNumber>
+		<paymentDate>2003-11-23</paymentDate>
+		<amount>37455.77</amount>
+		<customerName>Stylish Desk Decors, Co.</customerName>
+		<contactLastName>Brown</contactLastName>
+		<contactFirstName>Ann </contactFirstName>
+		<phone>(171) 555-0297</phone>
+		<addressLine1>35 King George</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>London</city>
+		<state>NULL</state>
+		<postalCode>WX3 6FW</postalCode>
+		<country>UK</country>
+		<salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+		<creditLimit>77000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>328</customerNumber>
+		<checkNumber>EN930356</checkNumber>
+		<paymentDate>2004-04-16</paymentDate>
+		<amount>7178.66</amount>
+		<customerName>Tekni Collectables Inc.</customerName>
+		<contactLastName>Brown</contactLastName>
+		<contactFirstName>William</contactFirstName>
+		<phone>2015559350</phone>
+		<addressLine1>7476 Moss Rd.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Newark</city>
+		<state>NJ</state>
+		<postalCode>94019</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+		<creditLimit>43000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>328</customerNumber>
+		<checkNumber>NR631421</checkNumber>
+		<paymentDate>2004-05-30</paymentDate>
+		<amount>31102.85</amount>
+		<customerName>Tekni Collectables Inc.</customerName>
+		<contactLastName>Brown</contactLastName>
+		<contactFirstName>William</contactFirstName>
+		<phone>2015559350</phone>
+		<addressLine1>7476 Moss Rd.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Newark</city>
+		<state>NJ</state>
+		<postalCode>94019</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+		<creditLimit>43000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>333</customerNumber>
+		<checkNumber>HL209210</checkNumber>
+		<paymentDate>2003-11-15</paymentDate>
+		<amount>23936.53</amount>
+		<customerName>Australian Gift Network, Co</customerName>
+		<contactLastName>Calaghan</contactLastName>
+		<contactFirstName>Ben</contactFirstName>
+		<phone>61-7-3844-6555</phone>
+		<addressLine1>31 Duncan St. West End</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>South Brisbane</city>
+		<state>Queensland</state>
+		<postalCode>4101</postalCode>
+		<country>Australia</country>
+		<salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+		<creditLimit>51600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>333</customerNumber>
+		<checkNumber>JK479662</checkNumber>
+		<paymentDate>2003-10-17</paymentDate>
+		<amount>9821.32</amount>
+		<customerName>Australian Gift Network, Co</customerName>
+		<contactLastName>Calaghan</contactLastName>
+		<contactFirstName>Ben</contactFirstName>
+		<phone>61-7-3844-6555</phone>
+		<addressLine1>31 Duncan St. West End</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>South Brisbane</city>
+		<state>Queensland</state>
+		<postalCode>4101</postalCode>
+		<country>Australia</country>
+		<salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+		<creditLimit>51600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>333</customerNumber>
+		<checkNumber>NF959653</checkNumber>
+		<paymentDate>2005-03-01</paymentDate>
+		<amount>21432.31</amount>
+		<customerName>Australian Gift Network, Co</customerName>
+		<contactLastName>Calaghan</contactLastName>
+		<contactFirstName>Ben</contactFirstName>
+		<phone>61-7-3844-6555</phone>
+		<addressLine1>31 Duncan St. West End</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>South Brisbane</city>
+		<state>Queensland</state>
+		<postalCode>4101</postalCode>
+		<country>Australia</country>
+		<salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+		<creditLimit>51600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>334</customerNumber>
+		<checkNumber>CS435306</checkNumber>
+		<paymentDate>2005-01-27</paymentDate>
+		<amount>45785.34</amount>
+		<customerName>Suominen Souveniers</customerName>
+		<contactLastName>Suominen</contactLastName>
+		<contactFirstName>Kalle</contactFirstName>
+		<phone>+358 9 8045 555</phone>
+		<addressLine1>Software Engineering Center</addressLine1>
+		<addressLine2>SEC Oy</addressLine2>
+		<city>Espoo</city>
+		<state>NULL</state>
+		<postalCode>FIN-02271</postalCode>
+		<country>Finland</country>
+		<salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+		<creditLimit>98800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>334</customerNumber>
+		<checkNumber>HH517378</checkNumber>
+		<paymentDate>2003-08-16</paymentDate>
+		<amount>29716.86</amount>
+		<customerName>Suominen Souveniers</customerName>
+		<contactLastName>Suominen</contactLastName>
+		<contactFirstName>Kalle</contactFirstName>
+		<phone>+358 9 8045 555</phone>
+		<addressLine1>Software Engineering Center</addressLine1>
+		<addressLine2>SEC Oy</addressLine2>
+		<city>Espoo</city>
+		<state>NULL</state>
+		<postalCode>FIN-02271</postalCode>
+		<country>Finland</country>
+		<salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+		<creditLimit>98800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>334</customerNumber>
+		<checkNumber>LF737277</checkNumber>
+		<paymentDate>2004-05-22</paymentDate>
+		<amount>28394.54</amount>
+		<customerName>Suominen Souveniers</customerName>
+		<contactLastName>Suominen</contactLastName>
+		<contactFirstName>Kalle</contactFirstName>
+		<phone>+358 9 8045 555</phone>
+		<addressLine1>Software Engineering Center</addressLine1>
+		<addressLine2>SEC Oy</addressLine2>
+		<city>Espoo</city>
+		<state>NULL</state>
+		<postalCode>FIN-02271</postalCode>
+		<country>Finland</country>
+		<salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+		<creditLimit>98800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>339</customerNumber>
+		<checkNumber>AP286625</checkNumber>
+		<paymentDate>2004-10-24</paymentDate>
+		<amount>23333.06</amount>
+		<customerName>Classic Gift Ideas, Inc</customerName>
+		<contactLastName>Cervantes</contactLastName>
+		<contactFirstName>Francisca</contactFirstName>
+		<phone>2155554695</phone>
+		<addressLine1>782 First Street</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Philadelphia</city>
+		<state>PA</state>
+		<postalCode>71270</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+		<creditLimit>81100.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>339</customerNumber>
+		<checkNumber>DA98827</checkNumber>
+		<paymentDate>2003-11-28</paymentDate>
+		<amount>34606.28</amount>
+		<customerName>Classic Gift Ideas, Inc</customerName>
+		<contactLastName>Cervantes</contactLastName>
+		<contactFirstName>Francisca</contactFirstName>
+		<phone>2155554695</phone>
+		<addressLine1>782 First Street</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Philadelphia</city>
+		<state>PA</state>
+		<postalCode>71270</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+		<creditLimit>81100.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>344</customerNumber>
+		<checkNumber>AF246722</checkNumber>
+		<paymentDate>2003-11-24</paymentDate>
+		<amount>31428.21</amount>
+		<customerName>CAF Imports</customerName>
+		<contactLastName>Fernandez</contactLastName>
+		<contactFirstName>Jesus</contactFirstName>
+		<phone>+34 913 728 555</phone>
+		<addressLine1>Merchants House</addressLine1>
+		<addressLine2>27-30 Merchant's Quay</addressLine2>
+		<city>Madrid</city>
+		<state>NULL</state>
+		<postalCode>28023</postalCode>
+		<country>Spain</country>
+		<salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
+		<creditLimit>59600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>344</customerNumber>
+		<checkNumber>NJ906924</checkNumber>
+		<paymentDate>2004-04-02</paymentDate>
+		<amount>15322.93</amount>
+		<customerName>CAF Imports</customerName>
+		<contactLastName>Fernandez</contactLastName>
+		<contactFirstName>Jesus</contactFirstName>
+		<phone>+34 913 728 555</phone>
+		<addressLine1>Merchants House</addressLine1>
+		<addressLine2>27-30 Merchant's Quay</addressLine2>
+		<city>Madrid</city>
+		<state>NULL</state>
+		<postalCode>28023</postalCode>
+		<country>Spain</country>
+		<salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
+		<creditLimit>59600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>347</customerNumber>
+		<checkNumber>DG700707</checkNumber>
+		<paymentDate>2004-01-18</paymentDate>
+		<amount>21053.69</amount>
+		<customerName>Men 'R' US Retailers, Ltd.</customerName>
+		<contactLastName>Chandler</contactLastName>
+		<contactFirstName>Brian</contactFirstName>
+		<phone>2155554369</phone>
+		<addressLine1>6047 Douglas Av.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Los Angeles</city>
+		<state>CA</state>
+		<postalCode>91003</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+		<creditLimit>57700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>347</customerNumber>
+		<checkNumber>LG808674</checkNumber>
+		<paymentDate>2003-10-24</paymentDate>
+		<amount>20452.50</amount>
+		<customerName>Men 'R' US Retailers, Ltd.</customerName>
+		<contactLastName>Chandler</contactLastName>
+		<contactFirstName>Brian</contactFirstName>
+		<phone>2155554369</phone>
+		<addressLine1>6047 Douglas Av.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Los Angeles</city>
+		<state>CA</state>
+		<postalCode>91003</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+		<creditLimit>57700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>350</customerNumber>
+		<checkNumber>BQ602907</checkNumber>
+		<paymentDate>2004-12-11</paymentDate>
+		<amount>18888.31</amount>
+		<customerName>Marseille Mini Autos</customerName>
+		<contactLastName>Lebihan</contactLastName>
+		<contactFirstName>Laurence </contactFirstName>
+		<phone>91.24.4555</phone>
+		<addressLine1>12, rue des Bouchers</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Marseille</city>
+		<state>NULL</state>
+		<postalCode>13008</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+		<creditLimit>65000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>350</customerNumber>
+		<checkNumber>CI471510</checkNumber>
+		<paymentDate>2003-05-25</paymentDate>
+		<amount>50824.66</amount>
+		<customerName>Marseille Mini Autos</customerName>
+		<contactLastName>Lebihan</contactLastName>
+		<contactFirstName>Laurence </contactFirstName>
+		<phone>91.24.4555</phone>
+		<addressLine1>12, rue des Bouchers</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Marseille</city>
+		<state>NULL</state>
+		<postalCode>13008</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+		<creditLimit>65000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>350</customerNumber>
+		<checkNumber>OB648482</checkNumber>
+		<paymentDate>2005-01-29</paymentDate>
+		<amount>1834.56</amount>
+		<customerName>Marseille Mini Autos</customerName>
+		<contactLastName>Lebihan</contactLastName>
+		<contactFirstName>Laurence </contactFirstName>
+		<phone>91.24.4555</phone>
+		<addressLine1>12, rue des Bouchers</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Marseille</city>
+		<state>NULL</state>
+		<postalCode>13008</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+		<creditLimit>65000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>353</customerNumber>
+		<checkNumber>CO351193</checkNumber>
+		<paymentDate>2005-01-10</paymentDate>
+		<amount>49705.52</amount>
+		<customerName>Reims Collectables</customerName>
+		<contactLastName>Henriot</contactLastName>
+		<contactFirstName>Paul </contactFirstName>
+		<phone>26.47.1555</phone>
+		<addressLine1>59 rue de l'Abbaye</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Reims</city>
+		<state>NULL</state>
+		<postalCode>51100</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+		<creditLimit>81100.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>353</customerNumber>
+		<checkNumber>ED878227</checkNumber>
+		<paymentDate>2003-07-21</paymentDate>
+		<amount>13920.26</amount>
+		<customerName>Reims Collectables</customerName>
+		<contactLastName>Henriot</contactLastName>
+		<contactFirstName>Paul </contactFirstName>
+		<phone>26.47.1555</phone>
+		<addressLine1>59 rue de l'Abbaye</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Reims</city>
+		<state>NULL</state>
+		<postalCode>51100</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+		<creditLimit>81100.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>353</customerNumber>
+		<checkNumber>GT878649</checkNumber>
+		<paymentDate>2003-05-21</paymentDate>
+		<amount>16700.47</amount>
+		<customerName>Reims Collectables</customerName>
+		<contactLastName>Henriot</contactLastName>
+		<contactFirstName>Paul </contactFirstName>
+		<phone>26.47.1555</phone>
+		<addressLine1>59 rue de l'Abbaye</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Reims</city>
+		<state>NULL</state>
+		<postalCode>51100</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+		<creditLimit>81100.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>353</customerNumber>
+		<checkNumber>HJ618252</checkNumber>
+		<paymentDate>2005-06-09</paymentDate>
+		<amount>46656.94</amount>
+		<customerName>Reims Collectables</customerName>
+		<contactLastName>Henriot</contactLastName>
+		<contactFirstName>Paul </contactFirstName>
+		<phone>26.47.1555</phone>
+		<addressLine1>59 rue de l'Abbaye</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Reims</city>
+		<state>NULL</state>
+		<postalCode>51100</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+		<creditLimit>81100.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>357</customerNumber>
+		<checkNumber>AG240323</checkNumber>
+		<paymentDate>2003-12-16</paymentDate>
+		<amount>20220.04</amount>
+		<customerName>GiftsForHim.com</customerName>
+		<contactLastName>MacKinlay</contactLastName>
+		<contactFirstName>Wales</contactFirstName>
+		<phone>64-9-3763555</phone>
+		<addressLine1>199 Great North Road</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Auckland</city>
+		<state>NULL</state>
+		<postalCode>NULL</postalCode>
+		<country>New Zealand</country>
+		<salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+		<creditLimit>77700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>357</customerNumber>
+		<checkNumber>NB291497</checkNumber>
+		<paymentDate>2004-05-15</paymentDate>
+		<amount>36442.34</amount>
+		<customerName>GiftsForHim.com</customerName>
+		<contactLastName>MacKinlay</contactLastName>
+		<contactFirstName>Wales</contactFirstName>
+		<phone>64-9-3763555</phone>
+		<addressLine1>199 Great North Road</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Auckland</city>
+		<state>NULL</state>
+		<postalCode>NULL</postalCode>
+		<country>New Zealand</country>
+		<salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+		<creditLimit>77700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>379</customerNumber>
+		<checkNumber>CA762595</checkNumber>
+		<paymentDate>2005-02-12</paymentDate>
+		<amount>28322.83</amount>
+		<customerName>Collectables For Less Inc.</customerName>
+		<contactLastName>Nelson</contactLastName>
+		<contactFirstName>Allen</contactFirstName>
+		<phone>6175558555</phone>
+		<addressLine1>7825 Douglas Av.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Brickhaven</city>
+		<state>MA</state>
+		<postalCode>58339</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+		<creditLimit>70700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>379</customerNumber>
+		<checkNumber>FR499138</checkNumber>
+		<paymentDate>2003-09-16</paymentDate>
+		<amount>32680.31</amount>
+		<customerName>Collectables For Less Inc.</customerName>
+		<contactLastName>Nelson</contactLastName>
+		<contactFirstName>Allen</contactFirstName>
+		<phone>6175558555</phone>
+		<addressLine1>7825 Douglas Av.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Brickhaven</city>
+		<state>MA</state>
+		<postalCode>58339</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+		<creditLimit>70700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>379</customerNumber>
+		<checkNumber>GB890854</checkNumber>
+		<paymentDate>2004-08-02</paymentDate>
+		<amount>12530.51</amount>
+		<customerName>Collectables For Less Inc.</customerName>
+		<contactLastName>Nelson</contactLastName>
+		<contactFirstName>Allen</contactFirstName>
+		<phone>6175558555</phone>
+		<addressLine1>7825 Douglas Av.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Brickhaven</city>
+		<state>MA</state>
+		<postalCode>58339</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+		<creditLimit>70700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>381</customerNumber>
+		<checkNumber>BC726082</checkNumber>
+		<paymentDate>2004-12-03</paymentDate>
+		<amount>12081.52</amount>
+		<customerName>Royale Belge</customerName>
+		<contactLastName>Cartrain</contactLastName>
+		<contactFirstName>Pascale </contactFirstName>
+		<phone>(071) 23 67 2555</phone>
+		<addressLine1>Boulevard Tirou, 255</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Charleroi</city>
+		<state>NULL</state>
+		<postalCode>B-6000</postalCode>
+		<country>Belgium</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>23500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>381</customerNumber>
+		<checkNumber>CC475233</checkNumber>
+		<paymentDate>2003-04-19</paymentDate>
+		<amount>1627.56</amount>
+		<customerName>Royale Belge</customerName>
+		<contactLastName>Cartrain</contactLastName>
+		<contactFirstName>Pascale </contactFirstName>
+		<phone>(071) 23 67 2555</phone>
+		<addressLine1>Boulevard Tirou, 255</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Charleroi</city>
+		<state>NULL</state>
+		<postalCode>B-6000</postalCode>
+		<country>Belgium</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>23500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>381</customerNumber>
+		<checkNumber>GB117430</checkNumber>
+		<paymentDate>2005-02-03</paymentDate>
+		<amount>14379.90</amount>
+		<customerName>Royale Belge</customerName>
+		<contactLastName>Cartrain</contactLastName>
+		<contactFirstName>Pascale </contactFirstName>
+		<phone>(071) 23 67 2555</phone>
+		<addressLine1>Boulevard Tirou, 255</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Charleroi</city>
+		<state>NULL</state>
+		<postalCode>B-6000</postalCode>
+		<country>Belgium</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>23500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>381</customerNumber>
+		<checkNumber>MS154481</checkNumber>
+		<paymentDate>2003-08-22</paymentDate>
+		<amount>1128.20</amount>
+		<customerName>Royale Belge</customerName>
+		<contactLastName>Cartrain</contactLastName>
+		<contactFirstName>Pascale </contactFirstName>
+		<phone>(071) 23 67 2555</phone>
+		<addressLine1>Boulevard Tirou, 255</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Charleroi</city>
+		<state>NULL</state>
+		<postalCode>B-6000</postalCode>
+		<country>Belgium</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>23500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>382</customerNumber>
+		<checkNumber>CC871084</checkNumber>
+		<paymentDate>2003-05-12</paymentDate>
+		<amount>35826.33</amount>
+		<customerName>Salzburg Collectables</customerName>
+		<contactLastName>Pipps</contactLastName>
+		<contactFirstName>Georg </contactFirstName>
+		<phone>6562-9555</phone>
+		<addressLine1>Geislweg 14</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Salzburg</city>
+		<state>NULL</state>
+		<postalCode>5020</postalCode>
+		<country>Austria</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>71700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>382</customerNumber>
+		<checkNumber>CT821147</checkNumber>
+		<paymentDate>2004-08-01</paymentDate>
+		<amount>6419.84</amount>
+		<customerName>Salzburg Collectables</customerName>
+		<contactLastName>Pipps</contactLastName>
+		<contactFirstName>Georg </contactFirstName>
+		<phone>6562-9555</phone>
+		<addressLine1>Geislweg 14</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Salzburg</city>
+		<state>NULL</state>
+		<postalCode>5020</postalCode>
+		<country>Austria</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>71700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>382</customerNumber>
+		<checkNumber>PH29054</checkNumber>
+		<paymentDate>2004-11-27</paymentDate>
+		<amount>42813.83</amount>
+		<customerName>Salzburg Collectables</customerName>
+		<contactLastName>Pipps</contactLastName>
+		<contactFirstName>Georg </contactFirstName>
+		<phone>6562-9555</phone>
+		<addressLine1>Geislweg 14</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Salzburg</city>
+		<state>NULL</state>
+		<postalCode>5020</postalCode>
+		<country>Austria</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>71700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>385</customerNumber>
+		<checkNumber>BN347084</checkNumber>
+		<paymentDate>2003-12-02</paymentDate>
+		<amount>20644.24</amount>
+		<customerName>Cruz and Sons Co.</customerName>
+		<contactLastName>Cruz</contactLastName>
+		<contactFirstName>Arnold</contactFirstName>
+		<phone>+63 2 555 3587</phone>
+		<addressLine1>15 McCallum Street</addressLine1>
+		<addressLine2>NatWest Center #13-03</addressLine2>
+		<city>Makati City</city>
+		<state>NULL</state>
+		<postalCode>1227 MM</postalCode>
+		<country>Philippines</country>
+		<salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+		<creditLimit>81500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>385</customerNumber>
+		<checkNumber>CP804873</checkNumber>
+		<paymentDate>2004-11-19</paymentDate>
+		<amount>15822.84</amount>
+		<customerName>Cruz and Sons Co.</customerName>
+		<contactLastName>Cruz</contactLastName>
+		<contactFirstName>Arnold</contactFirstName>
+		<phone>+63 2 555 3587</phone>
+		<addressLine1>15 McCallum Street</addressLine1>
+		<addressLine2>NatWest Center #13-03</addressLine2>
+		<city>Makati City</city>
+		<state>NULL</state>
+		<postalCode>1227 MM</postalCode>
+		<country>Philippines</country>
+		<salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+		<creditLimit>81500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>385</customerNumber>
+		<checkNumber>EK785462</checkNumber>
+		<paymentDate>2003-03-09</paymentDate>
+		<amount>51001.22</amount>
+		<customerName>Cruz and Sons Co.</customerName>
+		<contactLastName>Cruz</contactLastName>
+		<contactFirstName>Arnold</contactFirstName>
+		<phone>+63 2 555 3587</phone>
+		<addressLine1>15 McCallum Street</addressLine1>
+		<addressLine2>NatWest Center #13-03</addressLine2>
+		<city>Makati City</city>
+		<state>NULL</state>
+		<postalCode>1227 MM</postalCode>
+		<country>Philippines</country>
+		<salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+		<creditLimit>81500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>386</customerNumber>
+		<checkNumber>DO106109</checkNumber>
+		<paymentDate>2003-11-18</paymentDate>
+		<amount>38524.29</amount>
+		<customerName>L'ordine Souveniers</customerName>
+		<contactLastName>Moroni</contactLastName>
+		<contactFirstName>Maurizio </contactFirstName>
+		<phone>0522-556555</phone>
+		<addressLine1>Strada Provinciale 124</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Reggio Emilia</city>
+		<state>NULL</state>
+		<postalCode>42100</postalCode>
+		<country>Italy</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>121400.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>386</customerNumber>
+		<checkNumber>HG438769</checkNumber>
+		<paymentDate>2004-07-18</paymentDate>
+		<amount>51619.02</amount>
+		<customerName>L'ordine Souveniers</customerName>
+		<contactLastName>Moroni</contactLastName>
+		<contactFirstName>Maurizio </contactFirstName>
+		<phone>0522-556555</phone>
+		<addressLine1>Strada Provinciale 124</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Reggio Emilia</city>
+		<state>NULL</state>
+		<postalCode>42100</postalCode>
+		<country>Italy</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>121400.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>398</customerNumber>
+		<checkNumber>AJ478695</checkNumber>
+		<paymentDate>2005-02-14</paymentDate>
+		<amount>33967.73</amount>
+		<customerName>Tokyo Collectables, Ltd</customerName>
+		<contactLastName>Shimamura</contactLastName>
+		<contactFirstName>Akiko</contactFirstName>
+		<phone>+81 3 3584 0555</phone>
+		<addressLine1>2-2-8 Roppongi</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Minato-ku</city>
+		<state>Tokyo</state>
+		<postalCode>106-0032</postalCode>
+		<country>Japan</country>
+		<salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+		<creditLimit>94400.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>398</customerNumber>
+		<checkNumber>DO787644</checkNumber>
+		<paymentDate>2004-06-21</paymentDate>
+		<amount>22037.91</amount>
+		<customerName>Tokyo Collectables, Ltd</customerName>
+		<contactLastName>Shimamura</contactLastName>
+		<contactFirstName>Akiko</contactFirstName>
+		<phone>+81 3 3584 0555</phone>
+		<addressLine1>2-2-8 Roppongi</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Minato-ku</city>
+		<state>Tokyo</state>
+		<postalCode>106-0032</postalCode>
+		<country>Japan</country>
+		<salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+		<creditLimit>94400.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>398</customerNumber>
+		<checkNumber>JPMR4544</checkNumber>
+		<paymentDate>2005-05-18</paymentDate>
+		<amount>615.45</amount>
+		<customerName>Tokyo Collectables, Ltd</customerName>
+		<contactLastName>Shimamura</contactLastName>
+		<contactFirstName>Akiko</contactFirstName>
+		<phone>+81 3 3584 0555</phone>
+		<addressLine1>2-2-8 Roppongi</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Minato-ku</city>
+		<state>Tokyo</state>
+		<postalCode>106-0032</postalCode>
+		<country>Japan</country>
+		<salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+		<creditLimit>94400.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>398</customerNumber>
+		<checkNumber>KB54275</checkNumber>
+		<paymentDate>2004-11-29</paymentDate>
+		<amount>48927.64</amount>
+		<customerName>Tokyo Collectables, Ltd</customerName>
+		<contactLastName>Shimamura</contactLastName>
+		<contactFirstName>Akiko</contactFirstName>
+		<phone>+81 3 3584 0555</phone>
+		<addressLine1>2-2-8 Roppongi</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Minato-ku</city>
+		<state>Tokyo</state>
+		<postalCode>106-0032</postalCode>
+		<country>Japan</country>
+		<salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+		<creditLimit>94400.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>406</customerNumber>
+		<checkNumber>BJMPR4545</checkNumber>
+		<paymentDate>2005-04-23</paymentDate>
+		<amount>12190.85</amount>
+		<customerName>Auto Canal+ Petit</customerName>
+		<contactLastName>Perrier</contactLastName>
+		<contactFirstName>Dominique</contactFirstName>
+		<phone>(1) 47.55.6555</phone>
+		<addressLine1>25, rue Lauriston</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Paris</city>
+		<state>NULL</state>
+		<postalCode>75016</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+		<creditLimit>95000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>406</customerNumber>
+		<checkNumber>HJ217687</checkNumber>
+		<paymentDate>2004-01-28</paymentDate>
+		<amount>49165.16</amount>
+		<customerName>Auto Canal+ Petit</customerName>
+		<contactLastName>Perrier</contactLastName>
+		<contactFirstName>Dominique</contactFirstName>
+		<phone>(1) 47.55.6555</phone>
+		<addressLine1>25, rue Lauriston</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Paris</city>
+		<state>NULL</state>
+		<postalCode>75016</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+		<creditLimit>95000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>406</customerNumber>
+		<checkNumber>NA197101</checkNumber>
+		<paymentDate>2004-06-17</paymentDate>
+		<amount>25080.96</amount>
+		<customerName>Auto Canal+ Petit</customerName>
+		<contactLastName>Perrier</contactLastName>
+		<contactFirstName>Dominique</contactFirstName>
+		<phone>(1) 47.55.6555</phone>
+		<addressLine1>25, rue Lauriston</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Paris</city>
+		<state>NULL</state>
+		<postalCode>75016</postalCode>
+		<country>France</country>
+		<salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+		<creditLimit>95000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>412</customerNumber>
+		<checkNumber>GH197075</checkNumber>
+		<paymentDate>2004-07-25</paymentDate>
+		<amount>35034.57</amount>
+		<customerName>Extreme Desk Decorations, Ltd</customerName>
+		<contactLastName>McRoy</contactLastName>
+		<contactFirstName>Sarah</contactFirstName>
+		<phone>04 499 9555</phone>
+		<addressLine1>101 Lambton Quay</addressLine1>
+		<addressLine2>Level 11</addressLine2>
+		<city>Wellington</city>
+		<state>NULL</state>
+		<postalCode>NULL</postalCode>
+		<country>New Zealand</country>
+		<salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+		<creditLimit>86800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>412</customerNumber>
+		<checkNumber>PJ434867</checkNumber>
+		<paymentDate>2004-04-14</paymentDate>
+		<amount>31670.37</amount>
+		<customerName>Extreme Desk Decorations, Ltd</customerName>
+		<contactLastName>McRoy</contactLastName>
+		<contactFirstName>Sarah</contactFirstName>
+		<phone>04 499 9555</phone>
+		<addressLine1>101 Lambton Quay</addressLine1>
+		<addressLine2>Level 11</addressLine2>
+		<city>Wellington</city>
+		<state>NULL</state>
+		<postalCode>NULL</postalCode>
+		<country>New Zealand</country>
+		<salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+		<creditLimit>86800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>415</customerNumber>
+		<checkNumber>ER54537</checkNumber>
+		<paymentDate>2004-09-28</paymentDate>
+		<amount>31310.09</amount>
+		<customerName>Bavarian Collectables Imports, Co.</customerName>
+		<contactLastName>Donnermeyer</contactLastName>
+		<contactFirstName>Michael</contactFirstName>
+		<phone> +49 89 61 08 9555</phone>
+		<addressLine1>Hansastr. 15</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Munich</city>
+		<state>NULL</state>
+		<postalCode>80686</postalCode>
+		<country>Germany</country>
+		<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+		<creditLimit>77000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>424</customerNumber>
+		<checkNumber>KF480160</checkNumber>
+		<paymentDate>2004-12-07</paymentDate>
+		<amount>25505.98</amount>
+		<customerName>Classic Legends Inc.</customerName>
+		<contactLastName>Hernandez</contactLastName>
+		<contactFirstName>Maria</contactFirstName>
+		<phone>2125558493</phone>
+		<addressLine1>5905 Pompton St.</addressLine1>
+		<addressLine2>Suite 750</addressLine2>
+		<city>NYC</city>
+		<state>NY</state>
+		<postalCode>10022</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+		<creditLimit>67500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>424</customerNumber>
+		<checkNumber>LM271923</checkNumber>
+		<paymentDate>2003-04-16</paymentDate>
+		<amount>21665.98</amount>
+		<customerName>Classic Legends Inc.</customerName>
+		<contactLastName>Hernandez</contactLastName>
+		<contactFirstName>Maria</contactFirstName>
+		<phone>2125558493</phone>
+		<addressLine1>5905 Pompton St.</addressLine1>
+		<addressLine2>Suite 750</addressLine2>
+		<city>NYC</city>
+		<state>NY</state>
+		<postalCode>10022</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+		<creditLimit>67500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>424</customerNumber>
+		<checkNumber>OA595449</checkNumber>
+		<paymentDate>2003-10-31</paymentDate>
+		<amount>22042.37</amount>
+		<customerName>Classic Legends Inc.</customerName>
+		<contactLastName>Hernandez</contactLastName>
+		<contactFirstName>Maria</contactFirstName>
+		<phone>2125558493</phone>
+		<addressLine1>5905 Pompton St.</addressLine1>
+		<addressLine2>Suite 750</addressLine2>
+		<city>NYC</city>
+		<state>NY</state>
+		<postalCode>10022</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+		<creditLimit>67500.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>447</customerNumber>
+		<checkNumber>AO757239</checkNumber>
+		<paymentDate>2003-09-15</paymentDate>
+		<amount>6631.36</amount>
+		<customerName>Gift Ideas Corp.</customerName>
+		<contactLastName>Lewis</contactLastName>
+		<contactFirstName>Dan</contactFirstName>
+		<phone>2035554407</phone>
+		<addressLine1>2440 Pompton St.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Glendale</city>
+		<state>CT</state>
+		<postalCode>97561</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+		<creditLimit>49700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>447</customerNumber>
+		<checkNumber>ER615123</checkNumber>
+		<paymentDate>2003-06-25</paymentDate>
+		<amount>17032.29</amount>
+		<customerName>Gift Ideas Corp.</customerName>
+		<contactLastName>Lewis</contactLastName>
+		<contactFirstName>Dan</contactFirstName>
+		<phone>2035554407</phone>
+		<addressLine1>2440 Pompton St.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Glendale</city>
+		<state>CT</state>
+		<postalCode>97561</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+		<creditLimit>49700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>447</customerNumber>
+		<checkNumber>OU516561</checkNumber>
+		<paymentDate>2004-12-17</paymentDate>
+		<amount>26304.13</amount>
+		<customerName>Gift Ideas Corp.</customerName>
+		<contactLastName>Lewis</contactLastName>
+		<contactFirstName>Dan</contactFirstName>
+		<phone>2035554407</phone>
+		<addressLine1>2440 Pompton St.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Glendale</city>
+		<state>CT</state>
+		<postalCode>97561</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+		<creditLimit>49700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>448</customerNumber>
+		<checkNumber>FS299615</checkNumber>
+		<paymentDate>2005-04-18</paymentDate>
+		<amount>27966.54</amount>
+		<customerName>Scandinavian Gift Ideas</customerName>
+		<contactLastName>Larsson</contactLastName>
+		<contactFirstName>Martha</contactFirstName>
+		<phone>0695-34 6555</phone>
+		<addressLine1>Åkergatan 24</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Bräcke</city>
+		<state>NULL</state>
+		<postalCode>S-844 67</postalCode>
+		<country>Sweden</country>
+		<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+		<creditLimit>116400.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>448</customerNumber>
+		<checkNumber>KR822727</checkNumber>
+		<paymentDate>2004-09-30</paymentDate>
+		<amount>48809.90</amount>
+		<customerName>Scandinavian Gift Ideas</customerName>
+		<contactLastName>Larsson</contactLastName>
+		<contactFirstName>Martha</contactFirstName>
+		<phone>0695-34 6555</phone>
+		<addressLine1>Åkergatan 24</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Bräcke</city>
+		<state>NULL</state>
+		<postalCode>S-844 67</postalCode>
+		<country>Sweden</country>
+		<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+		<creditLimit>116400.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>450</customerNumber>
+		<checkNumber>EF485824</checkNumber>
+		<paymentDate>2004-06-21</paymentDate>
+		<amount>59551.38</amount>
+		<customerName>The Sharp Gifts Warehouse</customerName>
+		<contactLastName>Frick</contactLastName>
+		<contactFirstName>Sue</contactFirstName>
+		<phone>4085553659</phone>
+		<addressLine1>3086 Ingle Ln.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>San Jose</city>
+		<state>CA</state>
+		<postalCode>94217</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+		<creditLimit>77600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>452</customerNumber>
+		<checkNumber>ED473873</checkNumber>
+		<paymentDate>2003-11-15</paymentDate>
+		<amount>27121.90</amount>
+		<customerName>Mini Auto Werke</customerName>
+		<contactLastName>Mendel</contactLastName>
+		<contactFirstName>Roland </contactFirstName>
+		<phone>7675-3555</phone>
+		<addressLine1>Kirchgasse 6</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Graz</city>
+		<state>NULL</state>
+		<postalCode>8010</postalCode>
+		<country>Austria</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>45300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>452</customerNumber>
+		<checkNumber>FN640986</checkNumber>
+		<paymentDate>2003-11-20</paymentDate>
+		<amount>15130.97</amount>
+		<customerName>Mini Auto Werke</customerName>
+		<contactLastName>Mendel</contactLastName>
+		<contactFirstName>Roland </contactFirstName>
+		<phone>7675-3555</phone>
+		<addressLine1>Kirchgasse 6</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Graz</city>
+		<state>NULL</state>
+		<postalCode>8010</postalCode>
+		<country>Austria</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>45300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>452</customerNumber>
+		<checkNumber>HG635467</checkNumber>
+		<paymentDate>2005-05-03</paymentDate>
+		<amount>8807.12</amount>
+		<customerName>Mini Auto Werke</customerName>
+		<contactLastName>Mendel</contactLastName>
+		<contactFirstName>Roland </contactFirstName>
+		<phone>7675-3555</phone>
+		<addressLine1>Kirchgasse 6</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Graz</city>
+		<state>NULL</state>
+		<postalCode>8010</postalCode>
+		<country>Austria</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>45300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>455</customerNumber>
+		<checkNumber>HA777606</checkNumber>
+		<paymentDate>2003-12-05</paymentDate>
+		<amount>38139.18</amount>
+		<customerName>Super Scale Inc.</customerName>
+		<contactLastName>Murphy</contactLastName>
+		<contactFirstName>Leslie</contactFirstName>
+		<phone>2035559545</phone>
+		<addressLine1>567 North Pendale Street</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>New Haven</city>
+		<state>CT</state>
+		<postalCode>97823</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+		<creditLimit>95400.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>455</customerNumber>
+		<checkNumber>IR662429</checkNumber>
+		<paymentDate>2004-05-12</paymentDate>
+		<amount>32239.47</amount>
+		<customerName>Super Scale Inc.</customerName>
+		<contactLastName>Murphy</contactLastName>
+		<contactFirstName>Leslie</contactFirstName>
+		<phone>2035559545</phone>
+		<addressLine1>567 North Pendale Street</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>New Haven</city>
+		<state>CT</state>
+		<postalCode>97823</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+		<creditLimit>95400.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>456</customerNumber>
+		<checkNumber>GJ715659</checkNumber>
+		<paymentDate>2004-11-13</paymentDate>
+		<amount>27550.51</amount>
+		<customerName>Microscale Inc.</customerName>
+		<contactLastName>Choi</contactLastName>
+		<contactFirstName>Yu</contactFirstName>
+		<phone>2125551957</phone>
+		<addressLine1>5290 North Pendale Street</addressLine1>
+		<addressLine2>Suite 200</addressLine2>
+		<city>NYC</city>
+		<state>NY</state>
+		<postalCode>10022</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+		<creditLimit>39800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>456</customerNumber>
+		<checkNumber>MO743231</checkNumber>
+		<paymentDate>2004-04-30</paymentDate>
+		<amount>1679.92</amount>
+		<customerName>Microscale Inc.</customerName>
+		<contactLastName>Choi</contactLastName>
+		<contactFirstName>Yu</contactFirstName>
+		<phone>2125551957</phone>
+		<addressLine1>5290 North Pendale Street</addressLine1>
+		<addressLine2>Suite 200</addressLine2>
+		<city>NYC</city>
+		<state>NY</state>
+		<postalCode>10022</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+		<creditLimit>39800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>458</customerNumber>
+		<checkNumber>DD995006</checkNumber>
+		<paymentDate>2004-11-15</paymentDate>
+		<amount>33145.56</amount>
+		<customerName>Corrida Auto Replicas, Ltd</customerName>
+		<contactLastName>Sommer</contactLastName>
+		<contactFirstName>Martín </contactFirstName>
+		<phone>(91) 555 22 82</phone>
+		<addressLine1>C/ Araquil, 67</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Madrid</city>
+		<state>NULL</state>
+		<postalCode>28023</postalCode>
+		<country>Spain</country>
+		<salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
+		<creditLimit>104600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>458</customerNumber>
+		<checkNumber>NA377824</checkNumber>
+		<paymentDate>2004-02-06</paymentDate>
+		<amount>22162.61</amount>
+		<customerName>Corrida Auto Replicas, Ltd</customerName>
+		<contactLastName>Sommer</contactLastName>
+		<contactFirstName>Martín </contactFirstName>
+		<phone>(91) 555 22 82</phone>
+		<addressLine1>C/ Araquil, 67</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Madrid</city>
+		<state>NULL</state>
+		<postalCode>28023</postalCode>
+		<country>Spain</country>
+		<salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
+		<creditLimit>104600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>458</customerNumber>
+		<checkNumber>OO606861</checkNumber>
+		<paymentDate>2003-06-13</paymentDate>
+		<amount>57131.92</amount>
+		<customerName>Corrida Auto Replicas, Ltd</customerName>
+		<contactLastName>Sommer</contactLastName>
+		<contactFirstName>Martín </contactFirstName>
+		<phone>(91) 555 22 82</phone>
+		<addressLine1>C/ Araquil, 67</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Madrid</city>
+		<state>NULL</state>
+		<postalCode>28023</postalCode>
+		<country>Spain</country>
+		<salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
+		<creditLimit>104600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>471</customerNumber>
+		<checkNumber>AB661578</checkNumber>
+		<paymentDate>2004-07-28</paymentDate>
+		<amount>9415.13</amount>
+		<customerName>Australian Collectables, Ltd</customerName>
+		<contactLastName>Clenahan</contactLastName>
+		<contactFirstName>Sean</contactFirstName>
+		<phone>61-9-3844-6555</phone>
+		<addressLine1>7 Allen Street</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Glen Waverly</city>
+		<state>Victoria</state>
+		<postalCode>3150</postalCode>
+		<country>Australia</country>
+		<salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+		<creditLimit>60300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>471</customerNumber>
+		<checkNumber>CO645196</checkNumber>
+		<paymentDate>2003-12-10</paymentDate>
+		<amount>35505.63</amount>
+		<customerName>Australian Collectables, Ltd</customerName>
+		<contactLastName>Clenahan</contactLastName>
+		<contactFirstName>Sean</contactFirstName>
+		<phone>61-9-3844-6555</phone>
+		<addressLine1>7 Allen Street</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Glen Waverly</city>
+		<state>Victoria</state>
+		<postalCode>3150</postalCode>
+		<country>Australia</country>
+		<salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+		<creditLimit>60300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>473</customerNumber>
+		<checkNumber>LL427009</checkNumber>
+		<paymentDate>2004-02-17</paymentDate>
+		<amount>7612.06</amount>
+		<customerName>Frau da Collezione</customerName>
+		<contactLastName>Ricotti</contactLastName>
+		<contactFirstName>Franco</contactFirstName>
+		<phone>+39 022515555</phone>
+		<addressLine1>20093 Cologno Monzese</addressLine1>
+		<addressLine2>Alessandro Volta 16</addressLine2>
+		<city>Milan</city>
+		<state>NULL</state>
+		<postalCode>NULL</postalCode>
+		<country>Italy</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>34800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>473</customerNumber>
+		<checkNumber>PC688499</checkNumber>
+		<paymentDate>2003-10-27</paymentDate>
+		<amount>17746.26</amount>
+		<customerName>Frau da Collezione</customerName>
+		<contactLastName>Ricotti</contactLastName>
+		<contactFirstName>Franco</contactFirstName>
+		<phone>+39 022515555</phone>
+		<addressLine1>20093 Cologno Monzese</addressLine1>
+		<addressLine2>Alessandro Volta 16</addressLine2>
+		<city>Milan</city>
+		<state>NULL</state>
+		<postalCode>NULL</postalCode>
+		<country>Italy</country>
+		<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+		<creditLimit>34800.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>475</customerNumber>
+		<checkNumber>JP113227</checkNumber>
+		<paymentDate>2003-12-09</paymentDate>
+		<amount>7678.25</amount>
+		<customerName>West Coast Collectables Co.</customerName>
+		<contactLastName>Thompson</contactLastName>
+		<contactFirstName>Steve</contactFirstName>
+		<phone>3105553722</phone>
+		<addressLine1>3675 Furth Circle</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Burbank</city>
+		<state>CA</state>
+		<postalCode>94019</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+		<creditLimit>55400.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>475</customerNumber>
+		<checkNumber>PB951268</checkNumber>
+		<paymentDate>2004-02-13</paymentDate>
+		<amount>36070.47</amount>
+		<customerName>West Coast Collectables Co.</customerName>
+		<contactLastName>Thompson</contactLastName>
+		<contactFirstName>Steve</contactFirstName>
+		<phone>3105553722</phone>
+		<addressLine1>3675 Furth Circle</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Burbank</city>
+		<state>CA</state>
+		<postalCode>94019</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+		<creditLimit>55400.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>484</customerNumber>
+		<checkNumber>GK294076</checkNumber>
+		<paymentDate>2004-10-26</paymentDate>
+		<amount>3474.66</amount>
+		<customerName>Iberia Gift Imports, Corp.</customerName>
+		<contactLastName>Roel</contactLastName>
+		<contactFirstName>José Pedro </contactFirstName>
+		<phone>(95) 555 82 82</phone>
+		<addressLine1>C/ Romero, 33</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Sevilla</city>
+		<state>NULL</state>
+		<postalCode>41101</postalCode>
+		<country>Spain</country>
+		<salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
+		<creditLimit>65700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>484</customerNumber>
+		<checkNumber>JH546765</checkNumber>
+		<paymentDate>2003-11-29</paymentDate>
+		<amount>47513.19</amount>
+		<customerName>Iberia Gift Imports, Corp.</customerName>
+		<contactLastName>Roel</contactLastName>
+		<contactFirstName>José Pedro </contactFirstName>
+		<phone>(95) 555 82 82</phone>
+		<addressLine1>C/ Romero, 33</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Sevilla</city>
+		<state>NULL</state>
+		<postalCode>41101</postalCode>
+		<country>Spain</country>
+		<salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
+		<creditLimit>65700.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>486</customerNumber>
+		<checkNumber>BL66528</checkNumber>
+		<paymentDate>2004-04-14</paymentDate>
+		<amount>5899.38</amount>
+		<customerName>Motor Mint Distributors Inc.</customerName>
+		<contactLastName>Salazar</contactLastName>
+		<contactFirstName>Rosa</contactFirstName>
+		<phone>2155559857</phone>
+		<addressLine1>11328 Douglas Av.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Philadelphia</city>
+		<state>PA</state>
+		<postalCode>71270</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+		<creditLimit>72600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>486</customerNumber>
+		<checkNumber>HS86661</checkNumber>
+		<paymentDate>2004-11-23</paymentDate>
+		<amount>45994.07</amount>
+		<customerName>Motor Mint Distributors Inc.</customerName>
+		<contactLastName>Salazar</contactLastName>
+		<contactFirstName>Rosa</contactFirstName>
+		<phone>2155559857</phone>
+		<addressLine1>11328 Douglas Av.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Philadelphia</city>
+		<state>PA</state>
+		<postalCode>71270</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+		<creditLimit>72600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>486</customerNumber>
+		<checkNumber>JB117768</checkNumber>
+		<paymentDate>2003-03-20</paymentDate>
+		<amount>25833.14</amount>
+		<customerName>Motor Mint Distributors Inc.</customerName>
+		<contactLastName>Salazar</contactLastName>
+		<contactFirstName>Rosa</contactFirstName>
+		<phone>2155559857</phone>
+		<addressLine1>11328 Douglas Av.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Philadelphia</city>
+		<state>PA</state>
+		<postalCode>71270</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+		<creditLimit>72600.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>487</customerNumber>
+		<checkNumber>AH612904</checkNumber>
+		<paymentDate>2003-09-28</paymentDate>
+		<amount>29997.09</amount>
+		<customerName>Signal Collectibles Ltd.</customerName>
+		<contactLastName>Taylor</contactLastName>
+		<contactFirstName>Sue</contactFirstName>
+		<phone>4155554312</phone>
+		<addressLine1>2793 Furth Circle</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Brisbane</city>
+		<state>CA</state>
+		<postalCode>94217</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+		<creditLimit>60300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>487</customerNumber>
+		<checkNumber>PT550181</checkNumber>
+		<paymentDate>2004-02-29</paymentDate>
+		<amount>12573.28</amount>
+		<customerName>Signal Collectibles Ltd.</customerName>
+		<contactLastName>Taylor</contactLastName>
+		<contactFirstName>Sue</contactFirstName>
+		<phone>4155554312</phone>
+		<addressLine1>2793 Furth Circle</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Brisbane</city>
+		<state>CA</state>
+		<postalCode>94217</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+		<creditLimit>60300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>489</customerNumber>
+		<checkNumber>OC773849</checkNumber>
+		<paymentDate>2003-12-04</paymentDate>
+		<amount>22275.73</amount>
+		<customerName>Double Decker Gift Stores, Ltd</customerName>
+		<contactLastName>Smith</contactLastName>
+		<contactFirstName>Thomas </contactFirstName>
+		<phone>(171) 555-7555</phone>
+		<addressLine1>120 Hanover Sq.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>London</city>
+		<state>NULL</state>
+		<postalCode>WA1 1DP</postalCode>
+		<country>UK</country>
+		<salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+		<creditLimit>43300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>489</customerNumber>
+		<checkNumber>PO860906</checkNumber>
+		<paymentDate>2004-01-31</paymentDate>
+		<amount>7310.42</amount>
+		<customerName>Double Decker Gift Stores, Ltd</customerName>
+		<contactLastName>Smith</contactLastName>
+		<contactFirstName>Thomas </contactFirstName>
+		<phone>(171) 555-7555</phone>
+		<addressLine1>120 Hanover Sq.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>London</city>
+		<state>NULL</state>
+		<postalCode>WA1 1DP</postalCode>
+		<country>UK</country>
+		<salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+		<creditLimit>43300.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>495</customerNumber>
+		<checkNumber>BH167026</checkNumber>
+		<paymentDate>2003-12-26</paymentDate>
+		<amount>59265.14</amount>
+		<customerName>Diecast Collectables</customerName>
+		<contactLastName>Franco</contactLastName>
+		<contactFirstName>Valarie</contactFirstName>
+		<phone>6175552555</phone>
+		<addressLine1>6251 Ingle Ln.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Boston</city>
+		<state>MA</state>
+		<postalCode>51003</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+		<creditLimit>85100.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>495</customerNumber>
+		<checkNumber>FN155234</checkNumber>
+		<paymentDate>2004-05-14</paymentDate>
+		<amount>6276.60</amount>
+		<customerName>Diecast Collectables</customerName>
+		<contactLastName>Franco</contactLastName>
+		<contactFirstName>Valarie</contactFirstName>
+		<phone>6175552555</phone>
+		<addressLine1>6251 Ingle Ln.</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Boston</city>
+		<state>MA</state>
+		<postalCode>51003</postalCode>
+		<country>USA</country>
+		<salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+		<creditLimit>85100.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>496</customerNumber>
+		<checkNumber>EU531600</checkNumber>
+		<paymentDate>2005-05-25</paymentDate>
+		<amount>30253.75</amount>
+		<customerName>Kelly's Gift Shop</customerName>
+		<contactLastName>Snowden</contactLastName>
+		<contactFirstName>Tony</contactFirstName>
+		<phone>+64 9 5555500</phone>
+		<addressLine1>Arenales 1938 3'A'</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Auckland  </city>
+		<state>NULL</state>
+		<postalCode>NULL</postalCode>
+		<country>New Zealand</country>
+		<salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+		<creditLimit>110000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>496</customerNumber>
+		<checkNumber>MB342426</checkNumber>
+		<paymentDate>2003-07-16</paymentDate>
+		<amount>32077.44</amount>
+		<customerName>Kelly's Gift Shop</customerName>
+		<contactLastName>Snowden</contactLastName>
+		<contactFirstName>Tony</contactFirstName>
+		<phone>+64 9 5555500</phone>
+		<addressLine1>Arenales 1938 3'A'</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Auckland  </city>
+		<state>NULL</state>
+		<postalCode>NULL</postalCode>
+		<country>New Zealand</country>
+		<salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+		<creditLimit>110000.00</creditLimit>
+	</ROW>
+
+	<ROW>
+		<customerNumber>496</customerNumber>
+		<checkNumber>MN89921</checkNumber>
+		<paymentDate>2004-12-31</paymentDate>
+		<amount>52166.00</amount>
+		<customerName>Kelly's Gift Shop</customerName>
+		<contactLastName>Snowden</contactLastName>
+		<contactFirstName>Tony</contactFirstName>
+		<phone>+64 9 5555500</phone>
+		<addressLine1>Arenales 1938 3'A'</addressLine1>
+		<addressLine2>NULL</addressLine2>
+		<city>Auckland  </city>
+		<state>NULL</state>
+		<postalCode>NULL</postalCode>
+		<country>New Zealand</country>
+		<salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+		<creditLimit>110000.00</creditLimit>
+	</ROW>
+</DATA>

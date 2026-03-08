@@ -1,0 +1,87 @@
+﻿callback( [
+	{
+		"officeCode" : "1",
+        "picture" : "https://upload.wikimedia.org/wikipedia/commons/6/61/San_Francisco_from_the_Marin_Headlands_in_August_2022.jpg",
+		"city" : "San Francisco",
+		"phone" : "+1 650 219 4782",
+		"addressLine1" : "100 Market Street",
+		"addressLine2" : "Suite 300",
+		"state" : "CA",
+		"country" : "USA",
+		"postalCode" : "94080",
+		"territory" : "NA"
+	},
+	{
+		"officeCode" : "2",
+        "picture" : "https://upload.wikimedia.org/wikipedia/commons/d/d7/Boston_-_panoramio_%2823%29.jpg",
+		"city" : "Boston",
+		"phone" : "+1 215 837 0825",
+		"addressLine1" : "1550 Court Place",
+		"addressLine2" : "Suite 102",
+		"state" : "MA",
+		"country" : "USA",
+		"postalCode" : "02107",
+		"territory" : "NA"
+	},
+	{
+		"officeCode" : "3",
+        "picture" : "https://upload.wikimedia.org/wikipedia/commons/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
+		"city" : "NYC",
+		"phone" : "+1 212 555 3000",
+		"addressLine1" : "523 East 53rd Street",
+		"addressLine2" : "apt. 5A",
+		"state" : "NY",
+		"country" : "USA",
+		"postalCode" : "10022",
+		"territory" : "NA"
+	},
+	{
+		"officeCode" : "4",
+        "picture" : "https://upload.wikimedia.org/wikipedia/commons/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
+		"city" : "Paris",
+		"phone" : "+33 14 723 4404",
+		"addressLine1" : "43 Rue Jouffroy D'abbans",
+		"addressLine2" : null,
+		"state" : null,
+		"country" : "France",
+		"postalCode" : "75017",
+		"territory" : "EMEA"
+	},
+	{
+		"officeCode" : "5",
+        "picture" : "https://upload.wikimedia.org/wikipedia/commons/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg",
+		"city" : "Tokyo",
+		"phone" : "+81 33 224 5000",
+		"addressLine1" : "4-1 Kioicho",
+		"addressLine2" : null,
+		"state" : "Chiyoda-Ku",
+		"country" : "Japan",
+		"postalCode" : "102-8578",
+		"territory" : "Japan"
+	},
+	{
+		"officeCode" : "6",
+        "picture" : "https://upload.wikimedia.org/wikipedia/commons/5/53/Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg",
+		"city" : "Sydney",
+		"phone" : "+61 2 9264 2451",
+		"addressLine1" : "5-11 Wentworth Avenue",
+		"addressLine2" : "Floor #2",
+		"state" : null,
+		"country" : "Australia",
+		"postalCode" : "NSW 2010",
+		"territory" : "APAC"
+	},
+	{
+		"officeCode" : "7",
+        "picture" : "https://upload.wikimedia.org/wikipedia/commons/6/67/London_Skyline_%28125508655%29.jpeg",
+		"city" : "London",
+		"phone" : "+44 20 7877 2041",
+		"addressLine1" : "25 Old Broad Street",
+		"addressLine2" : "Level 7",
+		"state" : null,
+		"country" : "UK",
+		"postalCode" : "EC2N 1HN",
+		"territory" : "EMEA"
+	}
+]);
+

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ca">
+    <head>
+        <meta charset="UTF-8">
+        <title>Exercici 5 - Oficines</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif; 
+                background-color: #ffffff;
+                margin: 0;
+                padding: 20px;
+                color: #333333;                
+            }
+
+            h1 {
+                text-align: center;
+                color: #003366;
+                margin-bottom: 30px;
+            }
+
+            /*Contenidor de cada oficina*/
+            .oficina-card{
+                width: 90%;
+                max-width: 1000px;
+                margin: 0 auto 40px auto;
+                background-color: #f0f0f0;
+                border: 2px solid #dbdbdb;
+                box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            }
+
+            /*Banner amb el nom de la ciutat*/
+           .banner { 
+            background-color: #1769bb; 
+            color: white; 
+            padding: 12px 20px; 
+            font-size: 22px; 
+            font-weight: bold;
+            }
+
+            /* Taula de contingut */
+            .tabla-datos { 
+            width: 100%; 
+            border-collapse: collapse; 
+            table-layout: fixed;
+            }
+
+             /* Columna de la foto */
+            .col-foto { 
+            width: 200px; 
+            padding: 10px; 
+            vertical-align: middle; 
+            border-right: 1px solid #eee;
+            }
+            .col-foto img { 
+            width: 100%; 
+            display: block; 
+            border-radius: 4px;
+            }
+
+            /* Columna d'informació (les 4 files) */
+            .col-info { 
+            vertical-align: top; 
+            padding: 0; 
+            }
+
+            /* Estil per a cada fila de dades */
+            .fila-dato { 
+            padding: 15px; 
+            border-bottom: 1px solid #dbdbdb; 
+            display: block;
+            background-color: #f0f0f0;
+            }
+            .fila-dato:nth-child(even){
+                background-color: #ffffff;
+            }
+
+            .fila-dato:last-child { 
+            border-bottom: none; 
+            }
+
+        /* Estil per a les etiquetes en negreta */
+        .negreta { 
+            font-weight: bold; 
+            display: inline-block; 
+            width: 80px; /* Alinia els dos punts verticalment */
+        }
+        </style>
+    </head>
+
+    <body>
+        <h1>Oficines</h1>
+        <div id="contenedor-oficinas"></div>
+        <script src="main.js"></script>
+        <script src="offices.jsonp"></script>
+    </body>
+</html>
